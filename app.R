@@ -63,7 +63,7 @@ ui <- navbarPage(
       column(4,
              sliderInput(
                inputId = "altitudine",
-               label = "Altitudine",
+               label = "Altitude Max.",
                min = min(data$Altitude, na.rm = TRUE),
                max = max(data$Altitude, na.rm = TRUE),
                value = c(min(data$Altitude, na.rm = TRUE), 
@@ -125,7 +125,7 @@ server <- function(input, output){
       data <- data[data$Region == input$region,]
     }
     if(input$month != "All"){
-      data <- data[grep(input$month, data$Period), ]
+      data <- data[grep(substr(input$month, 1, 3), data$Period), ]
     }
     
     data <- data[(data$Distance > input$distance[1] &
