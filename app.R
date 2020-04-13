@@ -104,39 +104,6 @@ ui <- navbarPage(
   tabPanel(
     "Details",
     DT::dataTableOutput("table_web")
-  ),
-  
-  ##################################################################
-  
-  tabPanel(
-    "Done",
-    fluidRow(
-      column(4, 
-             selectInput(
-               inputId = "typed",
-               label = "Type:",
-               choices = c("All",
-                           unique(as.character(data$Type)))
-             )),
-      column(4,
-             selectInput(
-               inputId = "regiond",
-               label = "Region:",
-               choices = c("All",
-                           unique(as.character(data$Region)))
-             )),
-      column(4, 
-             dateRangeInput("dates", label = "Date range", 
-                            start = min(data$Date, na.rm = TRUE),
-                            end = max(data$Date, na.rm = TRUE))
-             )
-    ),
-    
-    fluidRow(DT::dataTableOutput("table_done")),
-    fluidRow(
-      column(6, plotOutput(outputId = "plotd_regions")),
-      column(6, plotOutput(outputId = "plotd_type"))
-      )
   )
 )
 
@@ -189,37 +156,19 @@ server <- function(input, output){
     data
   })
   
-  datax_done <- reactive({
-    data_done <- read.csv("muntanya.csv", stringsAsFactors = FALSE)[,-1]
-    data_done <- data_done[data_done$Done == TRUE, ]
-    if (input$typed != "All") {
-      data_done <- data_done[data_done$Type == input$typed,]
-    }
-    if (input$regiond != "All") {
-      data_done <- data_done[data_done$Region == input$regiond,]
-    }
-    data_done$Date <- as.Date(data_done$Date, format = "%d/%m/%Y")
-    data_done <- data_done[data_done$Date >= input$dates[1] &
-                             data_done$Date <= input$dates[2], ]
-    
-    data_done
-  })
-  
   ####################################################################
   
   output$table <- DT::renderDataTable(
     DT::datatable({
-      datax()[,-c(7,8:ncol(datax()))]
+      datax()[,-c(7:ncol(datax()))]
     }, options = list(pageLength = nrow(datax()), dom = 'Bfrtip'
                       ), rownames= FALSE)
   )
   
   output$plot_regions <- renderPlot({
     tmp <- datax
-    tmp <- data.frame(table(tmp()[,6]))
+    tmp <- data.frame(table(factor(tmp()[,6], levels = names(i_col))))
     tmp <- tmp[order(-tmp$Freq),]
-    data$Region <- factor(data$Region, 
-                          levels = as.character(tmp$Var1))
     tmp$col <- NA
     for(i in 1:nrow(tmp)){
       tmp$col[i] <- i_col[names(i_col) == tmp$Var1[i]]
@@ -239,34 +188,6 @@ server <- function(input, output){
       datax()[,c(1,8:9,12:14)]
     }, options = list(pageLength = nrow(datax()), dom = 't'), rownames= FALSE)
   )
-  
-  ####################################################################
-  
-  output$table_done <- DT::renderDataTable(
-    DT::datatable({
-      datax_done()[,-c(7:10)]
-    }, rownames= FALSE, options = list(dom = 't'))
-  )
-  
-  output$plotd_regions <- renderPlot({
-    tmp <- datax_done
-    tmp <- data.frame(table(tmp()[,6]))
-    tmp <- tmp[order(-tmp$Freq),]
-    data$Region <- factor(data$Region, 
-                          levels = as.character(tmp$Var1))
-    tmp$col <- NA
-    for(i in 1:nrow(tmp)){
-      tmp$col[i] <- i_col[names(i_col) == tmp$Var1[i]]
-    }
-    barplot(height = tmp$Freq, names = tmp$Var1, col = tmp$col, las = 2)
-  })
-  
-  output$plotd_type <- renderPlot({
-    tmp <- data.frame(table(datax_done()[,2]))
-    slices <- tmp$Freq
-    lbls <- paste0(tmp$Var1, "\n (n=", tmp$Freq, ")")
-    pie(slices, lbls)
-  })
 }
 
 shinyApp(ui = ui, server = server)
