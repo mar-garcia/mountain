@@ -97,9 +97,9 @@ ui <- navbarPage(
   
   tabPanel(
     "Graphs",
-    fluidRow(plotOutput(outputId = "plot_regions")),
-    fluidRow(plotOutput(outputId = "plot_type"))
-  ),
+      column(8, plotOutput(outputId = "plot_regions")),
+      column(4, plotOutput(outputId = "plot_type"))
+      ),
   
   tabPanel(
     "Details",
@@ -180,6 +180,7 @@ server <- function(input, output){
     tmp <- data.frame(table(datax()[,2]))
     slices <- tmp$Freq
     lbls <- paste0(tmp$Var1, "\n (n=", tmp$Freq, ")")
+    par(mar=c(0,1,0,2))
     pie(slices, lbls)
   })
   
