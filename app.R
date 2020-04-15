@@ -29,8 +29,12 @@ ui <- navbarPage(
              selectInput(
                inputId = "region",
                label = "Region:",
-               choices = c("All",
-                           unique(as.character(data$Region)))
+               choices = c("All", "Val di Sole", "Val di Non", 
+                           "Giudicarie", "Val di Fassa", "Val di Fiemme", 
+                           "Primiero", "Valsugana", "Garda e Ledro", 
+                           "Vallagarina", "Val d'Adige", "Oltradige",
+                           "Val Venosta", "Merano", "Sciliar", 
+                           "Valle Isarco", "Val Pusteria", "Belluno")
              )),
       column(3,
              selectInput(
