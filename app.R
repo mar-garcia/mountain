@@ -18,14 +18,15 @@ ui <- navbarPage(
     
     #### Create a new Row in the UI for selectInputs
     fluidRow(
-      column(3, 
+      column(2, 
              selectInput(
                inputId = "type",
                label = "Type:",
                choices = c("All",
                            unique(as.character(data$Type)))
              )),
-      column(3,
+      
+      column(2,
              selectInput(
                inputId = "region",
                label = "Region:",
@@ -36,7 +37,15 @@ ui <- navbarPage(
                            "Val Venosta", "Merano", "Sciliar", 
                            "Valle Isarco", "Val Pusteria", "Belluno")
              )),
-      column(3,
+      
+      column(2,
+             selectInput(
+               inputId = "gruppo",
+               label = "Gruppo:",
+               choices = c("All", unique(as.character(data$Gruppo)))
+             )),
+      
+      column(4,
              selectInput(
                inputId = "month",
                label = "Month:",
@@ -45,19 +54,15 @@ ui <- navbarPage(
                            "May", "June", "July", "August",
                            "September", "October", "November", "December"
                            ))),
-      column(1,
+      column(2,
              checkboxGroupInput(
                inputId = "checkbox",
                label = "Done",
                choices = list("yes" = 1, "no" = 0, "standby" = 2),
                selected = c(0,1,2))),
-      
-      column(2,
-             textInput("text", label = "Search", value = ""))
-    ),
-    
+
     fluidRow(
-      column(3,
+      column(2,
              sliderInput(
                inputId = "distance",
                label = "Distance",
@@ -66,7 +71,7 @@ ui <- navbarPage(
                value = c(min(data$Distance, na.rm = TRUE), 
                          max(data$Distance, na.rm = TRUE))
              )),
-      column(3,
+      column(2,
              sliderInput(
                inputId = "desnivell",
                label = "Desnivell",
@@ -75,7 +80,7 @@ ui <- navbarPage(
                value = c(min(data$Denivell, na.rm = TRUE), 
                          max(data$Denivell, na.rm = TRUE))
              )),
-      column(3,
+      column(2,
              sliderInput(
                inputId = "altitudine",
                label = "Altitude Max.",
@@ -84,14 +89,18 @@ ui <- navbarPage(
                value = c(min(data$Altitude, na.rm = TRUE), 
                          max(data$Altitude, na.rm = TRUE))
              )),
-      column(3,
+      column(4,
              sliderInput(
                inputId = "difficulty",
                label = "Difficulty",
                min = min(data$Difficulty),
                max = max(data$Difficulty), step = 0.5,
                value = c(min(data$Difficulty), max(data$Difficulty))
-             ))
+             )),
+      
+      column(2,
+             textInput("text", label = "Search", value = ""))
+    )
     ),
     
     # *Output() functions
@@ -148,6 +157,9 @@ server <- function(input, output){
     if (input$region != "All") {
       data <- data[data$Region == input$region,]
     }
+    if (input$gruppo != "All") {
+      data <- data[data$Gruppo == input$gruppo,]
+    }
     if(input$month != "All"){
       data <- data[grep(substr(input$month, 1, 3), data$Period), ]
     }
@@ -170,7 +182,7 @@ server <- function(input, output){
   
   output$table <- DT::renderDataTable(
     DT::datatable({
-      datax()[,-c(7:ncol(datax()))]
+      datax()[,-c(8:ncol(datax()))]
     }, options = list(pageLength = nrow(datax()), dom = "t" #dom = 'Bfrtip'
                       ), rownames= FALSE)
   )
@@ -196,7 +208,7 @@ server <- function(input, output){
   
   output$table_web <- DT::renderDataTable(
     DT::datatable({
-      datax()[,c(1,8:9,12:14)]
+      datax()[,c(1,6:7,9,10,13:15)]
     }, options = list(pageLength = nrow(datax()), dom = 't'), rownames= FALSE)
   )
 }
