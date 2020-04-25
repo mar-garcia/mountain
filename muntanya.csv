@@ -1,380 +1,476 @@
-Marca de temps,Destination,Type,Distance,Denivell,Altitude,Region,Period [.],Source,Web,Done,Date,Difficulty,Overall,Comments,FALSE,FALSE
-07/04/2020 21:47:27,Cima Ambiez,Ferrata,10,1436,2885,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,3,3,X,FALSE,FALSE
-07/04/2020 21:48:31,Cima Tosa e Crozzon di Brenta,Ferrata,20.4,1629,2885,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,3,X,FALSE,FALSE
-07/04/2020 21:49:26,Cima Ceda,Ferrata,11.2,1380,2860,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,3,3,X,FALSE,FALSE
-07/04/2020 21:50:12,Bocchette Centrali,Ferrata,17.6,1236,2770,Giudicarie,"Jun, Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-07/04/2020 21:51:01,Bocchette Alte,Ferrata,15.9,1537,3020,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,5,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-07/04/2020 22:07:55,Cima Brenta,Ferrata,21.6,1509,2749,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,3,3,X,FALSE,FALSE
-07/04/2020 22:08:43,Cima Falkner,Ferrata,9.6,735,2910,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,https://www.sentres.com/it/via-ferrata/sentiero-alfredo-benini,TRUE,15/07/2018,2,3,"Also in ""Atlante delle Vie ferrate: Sentiero Alfredo Benini [107]""",FALSE,FALSE
-07/04/2020 22:26:15,Pietra Grande,Hike,9.6,610,2614,Giudicarie,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 22:27:12,Monte Peller,Hike,10.1,215,2104,Val di Non,"Jun, Jul, Aug, Sep, Oct, Nov",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,24/09/2017,2,0,X,FALSE,FALSE
-07/04/2020 22:28:07,Catena della Campa,Hike,23,1816,2378,Giudicarie,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:12:14,"Croz dell'Altissimo, Cima dei Lasteri e Piz Galin",Hike,12.2,1009,2164,Val d'Adige,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,07/07/2019,2.5,0,X,FALSE,FALSE
-07/04/2020 23:13:10,Cima Valsorda,Hike,10,675,2671,Sciliar,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,0,X,FALSE,FALSE
-07/04/2020 23:13:52,Campanili del Latemar,Ferrata,14.8,966,2750,Sciliar,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-07/04/2020 23:14:53,Roda di Vael,Hike,10.3,807,2560,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,16/06/2018,2,0,"Also in ""Atlante..."" & ""Stupende ferrate...""",FALSE,FALSE
-07/04/2020 23:30:59,Coronelle e Mugoni,Hike,16.8,1237,2630,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:31:48,Cima Catinaccio,Ferrata,7.7,1018,2741,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-07/04/2020 23:32:37,Cime del Principe,Hike,16.4,1539,2598,Sciliar,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,03/08/2019,2,0,X,FALSE,FALSE
-07/04/2020 23:33:25,Molignon e Catinaccio d'Antermoia,Hike,21.4,1557,2769,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:34:11,Cima Scalieret,Ferrata,15.2,1273,2769,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-07/04/2020 23:35:16,Larsec,Ferrata,5.7,700,2550,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-07/04/2020 23:38:25,Sassopiatto,Hike,14.9,821,2681,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,28/08/2019,2,0,X,FALSE,FALSE
-07/04/2020 23:39:25,Sassolungo,Hike,9.7,567,2681,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,28/08/2019,2,0,X,FALSE,FALSE
-07/04/2020 23:40:15,Sassolungo e Sassopiatto,Hike,18.5,235,2318,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,28/08/2019,1,0,X,FALSE,FALSE
-07/04/2020 23:41:33,Odle,Hike,15.8,1190,2642,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:42:23,Odle di Eores,Hike,12.9,939,2357,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,13/07/2019,1,0,X,FALSE,FALSE
-07/04/2020 23:43:10,Sass di Putia,Hike,11.2,399,2357,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,0,X,FALSE,FALSE
-07/04/2020 23:44:02,Puez,Ferrata,18.8,1400,2737,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,1,X,FALSE,FALSE
-07/04/2020 23:45:02,Sass Ciampac,Hike,11.3,696,2528,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,0,X,FALSE,FALSE
-07/04/2020 23:45:55,Sassongher,Hike,11.2,1010,2435,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:46:51,Mesules,Ferrata,12.9,888,2974,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,5,3,"Also in ""Atlante..."" & ""Stupende ferrate...""",FALSE,FALSE
-07/04/2020 23:47:48,Masores de Pissadu,Ferrata,7.8,637,2610,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,2,X,FALSE,FALSE
-07/04/2020 23:48:32,Cima Pissadu e Sass de Mezdi,Ferrata,11.6,1275,2907,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,2,X,FALSE,FALSE
-07/04/2020 23:49:19,Piz da Lech de Boe,Ferrata,14.5,1469,3009,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,1,"Also in ""Atlante..."" & ""Stupende ferrate...""",FALSE,FALSE
-07/04/2020 23:50:03,Piz Boe,Ferrata,11.1,895,3124,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,31/08/2019,1,1,X,FALSE,FALSE
-07/04/2020 23:50:47,Col Aut e Col  Toron,Hike,10.5,1109,2907,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:51:32,Sass Pordoi,Hike,10.6,954,2829,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:52:27,Vallaccia,Hike,20.4,1367,2525,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:53:27,Monzoni,Ferrata,15.9,1323,2647,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-07/04/2020 23:54:18,Catena di Costabella,Ferrata,14.9,1195,2762,Val di Fassa,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-07/04/2020 23:55:02,Col Ombert,Hike,11.2,863,2498,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:55:57,Collac e Sasso Nero,Ferrata,12.8,1245,2540,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,1,X,FALSE,FALSE
-07/04/2020 23:56:42,Cresta del Padon,Hike,12.2,914,2632,Val di Fassa,"Jun, Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,23/06/2018,2,0,X,FALSE,FALSE
-07/04/2020 23:57:39,Marmolada,Ferrata,16.4,1185,2896,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-07/04/2020 23:58:23,Cima Ombretta e Sasso Vernale,Hike,22.2,2123,2864,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:59:07,Cima Ombrettola,Hike,12.1,1190,2864,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-07/04/2020 23:59:50,Sasso di Valfredda,Hike,12.6,1341,2836,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2.5,0,X,FALSE,FALSE
-08/04/2020 0:00:44,Monte Fop e Pale del Fop,Hike,17.7,1486,2777,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2.5,0,X,FALSE,FALSE
-08/04/2020 0:01:35,Cime d'Auta,Hike,14.6,1263,2312,Val di Fassa,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 0:02:28,Sasso Bianco,Hike,13,801,2056,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 0:03:18,Cimerlo,Ferrata,11.1,1204,2530,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,"Also in ""Atlante..."" & ""Stupende ferrate...""",FALSE,FALSE
-08/04/2020 0:04:05,Cima della Madonna e Sass Maor,Ferrata,11.6,1568,2530,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,4,3,X,FALSE,FALSE
-08/04/2020 0:04:44,Cima di Ball,Ferrata,11.7,1613,2705,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,4,3,X,FALSE,FALSE
-08/04/2020 0:05:31,Cima di Val di Roda,Ferrata,14.2,1210,2705,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,3,X,FALSE,FALSE
-08/04/2020 0:06:15,Pala di San Martino,Hike,9.8,638,2711,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 0:07:14,Croda della Pala,Ferrata,5.7,1276,3005,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,5,3,X,FALSE,FALSE
-08/04/2020 0:08:07,C. Corona e C. delle Comelle,Ferrata,10.9,1270,3192,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-08/04/2020 0:08:52,Cima Vezzana e Cimon del la Pala,Ferrata,22.1,1885,2932,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-08/04/2020 0:09:29,Monte Mulaz,Ferrata,9.7,760,2619,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,18/06/2017,2,1,X,FALSE,FALSE
-08/04/2020 0:10:05,Cima del Focobon,Ferrata,11.9,1735,2932,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-08/04/2020 0:10:53,Sasso Negro,Hike,12,1001,2334,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 0:11:30,Cima Canali,Ferrata,14.9,1733,2695,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-08/04/2020 0:12:12,Campanili d'Ostio e Cima di Sedole,Ferrata,9.8,1118,2298,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X,FALSE,FALSE
-08/04/2020 0:12:59,La Fradusta e Cima dei Lastei,Hike,15.1,1596,2727,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2.5,0,X,FALSE,FALSE
-08/04/2020 0:13:44,Vani Alti e Sass d'Ortiga,Ferrata,11.7,1727,2733,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,3,X,FALSE,FALSE
-08/04/2020 0:14:27,Pala della Madonna,Hike,12,1357,2244,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 0:15:05,Cima d'Oltro,Hike,10.3,1194,2229,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 16:37:09,Cima Slavazzaie,Hike,,1450,2427,Val di Non,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:38:12,Monte Pin,Hike,,1380,2419,Val di Non,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:38:44,Cima di Quaira,Hike,,1480,2752,Val di Non,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 16:40:20,Cima Tremenesca,Hike,,1650,2882,Val di Sole,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,STANDBY,20/07/2019,1.5,0,Cabres,FALSE,FALSE
-08/04/2020 16:40:48,Cima Rossa di Saent,Hike,,1900,3347,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:41:21,Monte Le Pozze,Hike,,1050,2824,Val di Sole,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:42:39,Monte Palu,Hike,,1700,2835,Val di Sole,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:43:07,Cima Venezia,Hike,,1530,3386,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:43:30,Punta di Ercavallo,Hike,,1450,3068,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:46:18,Cima di Pozzi,Hike,,1050,2890,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:46:48,Cima di Stavei,Hike,,1530,2622,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:47:56,Cima Scarpaco,Hike,,1200,3252,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,30/08/2019,1.5,0,X,FALSE,FALSE
-08/04/2020 16:49:01,Pala della Falculotta,Hike,,970,2520,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:49:25,Cima Cop di Breguzzo,Hike,,1770,3001,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:49:51,Cima Danerba,Hike,,1680,2910,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:50:23,Corno d'Arno,Hike,,1300,2849,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 16:50:48,Monte Corona,Hike,,1300,2508,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 16:51:25,Corno di Grevo,Hike,,1100,2869,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,3,0,X,FALSE,FALSE
-08/04/2020 16:55:07,Monte Bruffioni,Hike,,1170,2664,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:36:55,Cima Vagliana,Hike,,1200,2861,Val di Non,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:37:23,Corno di Flavona,Hike,,1470,2918,Val di Non,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:37:50,Sasso Alto - Cima Sassara,Hike,,1600,2894,Val di Non,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:38:52,La Rocca,Hike,,1100,2496,Val di Non,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:39:35,Cima di Val Scura,Hike,,1320,2670,Val di Non,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:40:47,Cima Dagnola,Hike,,1200,2915,Val d'Adige,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie del Trentino,,TRUE,07/07/2019,1,0,X,FALSE,FALSE
-08/04/2020 17:41:38,Monte Fibbion,Hike,,1750,2665,Val d'Adige,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:42:22,Cima di Santa Maria,Hike,,1830,2678,Val d'Adige,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:43:42,Cima SUSAT,Hike,,1200,2890,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,18/08/2019,1,0,X,FALSE,FALSE
-08/04/2020 17:44:12,La Crona,Hike,,1700,2324,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:44:43,Cima della Forcolotta,Hike,,1650,2507,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:45:06,Cimon di Cresole,Hike,,1970,2855,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:45:37,Monte Brugnol,Hike,,1400,2221,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,27/07/2019,1,0,X,FALSE,FALSE
-08/04/2020 17:46:28,Colmo di Valgelada,Hike,,1630,2255,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:47:13,Cima di Ghez,Hike,,1670,2715,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:47:55,Monte Canfedin,Hike,,1500,2034,Val d'Adige,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,16/06/2019,1,0,X,FALSE,FALSE
-08/04/2020 17:48:24,Cima Roccapiana,Hike,,1700,1873,Val d'Adige,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,24/08/2019,1,0,X,FALSE,FALSE
-08/04/2020 17:53:28,Monte Fregasoga,Hike,,750,2447,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:54:22,Cima Agnelezza,Hike,,800,2234,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 17:55:24,Monte Montalon,Hike,,1150,2501,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 20:52:04,Cima Orsera,Hike,,1170,2471,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 20:52:51,Cima delle Buse,Hike,,1300,2574,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 20:53:29,Cima di Laugrai,Hike,,1100,2530,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 20:54:03,Monte Lastè delle Sute,Hike,,1200,2616,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:06:06,Monte Castelletto,Hike,,1100,2337,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:06:47,Cima Caldenave,Hike,,1150,2442,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:07:45,Cima Trento,Hike,,1150,2530,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,3,0,X,FALSE,FALSE
-08/04/2020 21:08:22,Tombola Nera,Hike,,1250,2439,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:08:53,Monte Tolvà,Hike,,1000,2343,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:09:35,Monte Cauriol,Hike,,1400,2494,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,STANDBY,05/10/2019,1.5,0,X,FALSE,FALSE
-08/04/2020 21:10:05,Cima di Valsorda,Hike,,1400,2287,Primiero,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:10:39,Cima Scanaiol,Hike,,900,2467,Primiero,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 21:11:15,Castel delle Aie,Hike,,900,2475,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:11:56,Cima Ovest di Bragarolo,Hike,,1250,2692,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:12:59,Monte Feltraio,Hike,,1000,2295,Primiero,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:13:30,Sasso delle Lede,Hike,,1300,2580,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:14:06,Cima Manstorna,Hike,,1550,2816,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:14:33,Cima delle Scarpe,Hike,,1600,2802,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:15:10,Cima dei Bureloni,Hike,,1500,3130,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,11/08/2019,3,0,X,FALSE,FALSE
-08/04/2020 21:16:06,Cima Pelenzana,Hike,,1200,2181,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:16:29,Sasso Vernale,Hike,,1300,3058,Val di Fassa,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:21:19,Mompiccio,Hike,,1550,3162,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:21:58,Piz Starlex,Hike,,1300,3075,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:22:28,Punta Livi,Hike,,1500,3352,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:23:00,Punta Martello,Hike,,1400,3357,Val Venosta,"Jun, Jul, Aug, Sep",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:23:47,Punta Peder di Dentro,Hike,,1300,3309,Val Venosta,"Jul, Aug, Sep",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:24:15,Punta dello Scudo,Hike,,1450,3461,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:24:55,Punta di Sluder,Hike,,1500,3230,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:25:28,Cima dei Corvi,Hike,,1600,3393,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:25:58,Cima di Pleres,Hike,,1400,3188,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:26:23,Cima Ramudla,Hike,,1550,3330,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:27:30,Punta d'Alliz,Hike,,1550,3206,Val Venosta,"Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:28:01,Punta di Rems,Hike,,1400,3212,Val Venosta,"Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:28:36,Spizat,Hike,,1300,3038,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:29:24,Cima Culla,Hike,,1600,3109,Val Venosta,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:29:54,Cima Culla Alta,Hike,,1600,2978,Val Venosta,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:30:21,Cima Mastaun,Hike,,1700,3200,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:30:48,Crodarotta,Hike,,1300,2890,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:31:15,Punta Oberettes Sud,Hike,,1350,3296,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:31:51,Punta dei Corvi,Hike,,1600,3407,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:32:20,Punta di Trumes,Hike,,1500,2912,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:32:54,Monte di Tarres,Hike,,1400,2952,Val Venosta,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:33:28,Punta di Rasass,Hike,,1400,2941,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:34:03,Piz Cristanas,Hike,,1750,3092,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:34:32,Punta Luco di Mezzo,Hike,,1600,3176,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:35:08,Punta della Gallina,Hike,,1200,3142,Val Venosta,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 21:35:47,Piz Clopai,Hike,,1200,2917,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:36:11,Dosso di Valcuna,Hike,,1100,3006,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:37:08,Monte Ometto,Hike,,1000,2395,Merano,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:37:41,Seekopflspitze,Hike,,1200,2564,Merano,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:38:11,Collecchio,Hike,,1300,2957,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:38:56,Gioveretto,Hike,,1550,3439,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:39:17,Monte Stanga,Hike,,1200,2644,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:39:46,Orecchia di Lepre,Hike,,1600,3257,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:40:16,Guardia Alta,Hike,,1250,2608,Merano,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:40:39,Beilspitze,Hike,,1300,3058,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 21:41:02,Cima del Laug Nero,Hike,,1350,2988,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:41:27,Croda della Cintola,Hike,,1200,2858,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:41:56,La Clava,Hike,,1400,2868,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:42:17,Laste di Verdins,Hike,,1400,2680,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,3,0,X,FALSE,FALSE
-08/04/2020 21:42:39,Punta Alpetta,Hike,,1700,2748,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:43:03,Monte Scabro di Plan,Hike,,1300,2926,Merano,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:43:29,Cima Kirchbach,Hike,,1550,2951,Merano,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:44:52,Cima di Vidacqua,Hike,,950,2512,Sciliar,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:45:20,Monte Villandro,Hike,,1100,2509,Sciliar,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:45:48,Punta Valcenai,Hike,,1250,2662,Sciliar,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:46:19,Cima di Quaire,Hike,,1000,2412,Sciliar,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:47:13,Guardia Alta,Hike,,1500,2746,Sciliar,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:47:46,Montaccio di Pennes,Hike,,1200,2526,Sciliar,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:48:22,Corno di Tramin,Hike,,1300,2708,Sciliar,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:48:52,Grubenkopf,Hike,,1250,2606,Sciliar,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,2,0,X,FALSE,FALSE
-08/04/2020 21:49:15,Monte della Croce,Hike,,1800,2560,Sciliar,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:49:47,Parete Bianca,Hike,,1700,3016,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:50:52,Parete Nera,Hike,,1650,2917,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:51:25,Cima Zermedo,Hike,,1350,2798,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,STANDBY,22/09/2019,1.5,0,Intent,FALSE,FALSE
-08/04/2020 21:52:03,La Bianca,Hike,,1800,2822,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:52:35,Monte Tallone Grande,Hike,,1200,2669,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:53:13,Cima dell'Accla,Hike,,1800,3194,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:53:44,Cime Bianche di Telves,Hike,,1350,2588,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-08/04/2020 21:54:07,Croda Sperone,Hike,,1500,2889,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X,FALSE,FALSE
-08/04/2020 21:54:36,Lasta Alta,Hike,,1100,2546,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X,FALSE,FALSE
-12/04/2020 20:01:57,Via Ferrata Aldo Roghel,Ferrata,3.9,880,2452,Belluno,"Jul, Aug, Sep",Atlante delle Vie ferrate, https://www.sentres.com/it/via-ferrata/via-ferrata-aldo-roghel,FALSE,,4,3,X,FALSE,FALSE
-12/04/2020 20:03:40,Via attrezzata Cengia Gabriella,Ferrata,4.2,590,2487,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-attrezzata-cengia-gabriella,FALSE,,1,3,X,FALSE,FALSE
-12/04/2020 20:04:49,La Strada degli Alpini,Ferrata,11,490,2685,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/003-la-strada-degli-alpini,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:08:55,Ferrata Croda Rossa,Ferrata,7.4,920,2845,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-croda-rossa-croda-rossa-di-sesto-2936-m,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:10:49,Via Ferrata Mario Zandonella,Ferrata,8.9,910,2835,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-mario-zandonella-croda-rossa-di-sesto-2936-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:13:01,Ferrata delle Scalette,Ferrata,10.9,370,2517,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-delle-scalette-torre-di-toblin-2617-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:15:17,Sentiero attrezzato De Luca-Innerkofler,Ferrata,9.7,380,2609,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-de-luca-innerkofler-monte-paterno-2744-m,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:16:34,Sentiero delle Forcelle,Ferrata,12,520,2653,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-delle-forcelle-monte-paterno-2744-m,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:17:54,Via Ferrata Severino Casara,Ferrata,19,1400,2555,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-severino-casara-bivacco-de-toni-piccola-croda-dei-toni-bivacco-de-toni,FALSE,,3,3,X,FALSE,FALSE
-12/04/2020 20:21:33,Ferrata Capitano Bilgeri,Ferrata,11.3,900,2303,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-capitano-bilgeri-monte-piano-2305-m,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:22:47,Sentiero Bonacossa,Ferrata,7.1,660,2534,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-bonacossa-gruppo-dei-cadini,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 20:23:33,Via Ferrata Merlone,Ferrata,2,380,2725,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-merlone-cima-cadini-nordest-2788-m-gruppo-dei-cadini,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:24:35,Via ferrata Renè de Pol,Ferrata,8,890,2370,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-rene-de-pol-forame-de-inze-2385-m-gruppo-del-cristallo,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:25:20,Vie Ferrate delle Cascate della Val di Fanes,Ferrata,10.2,460,1746,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/vie-ferrate-delle-cascate-della-val-di-fanes-propaggine-del-gruppo-di-fanes-sul-versante-cortinese,FALSE,,2,1,X,FALSE,FALSE
-12/04/2020 20:26:09,Via Ferrata Ettore Bovero,Ferrata,9.3,800,2095,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-ettore-bovero-col-rosa-2166-m,FALSE,,3,2,X,FALSE,FALSE
-12/04/2020 20:26:50,Via Ferrata Michielli Strobel,Ferrata,6.3,900,2206,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-michielli-strobel-punta-fiames-2240-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:27:38,Sentiero attrezzato Zumeles,Ferrata,9.6,860,2175,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-zumeles-punta-erbing-2301-m,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:28:32,Sentiero Attrezzato Ivano Dibona,Ferrata,18.2,1470,2957,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/018-sentiero-attrezzato-ivano-dibona-cristallino-d-ampezzo-3008-m,FALSE,,2,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:29:23,Via Ferrata Marino Bianchi,Ferrata,1.5,100,3026,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-marino-bianchi-cristallo-di-mezzo-3154-m-gruppo-del-cristallo,FALSE,,3,2,X,FALSE,FALSE
-12/04/2020 20:30:08,Via Ferrata Alfonso Vandelli,Ferrata,15.6,770,2310,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-alfonso-vandelli-col-del-fuoco-2360-m-sorapiss,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:30:58,Via ferrata Francesco Berti,Ferrata,11.3,840,2697,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-francesco-berti-sorapiss,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:31:54,Via ferrata Sci Club 18,Ferrata,3.1,630,2128,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-sci-club-18-crep-de-faloria-2123-m,FALSE,,5,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:32:44,Via Ferrata Formenton,Ferrata,4.4,240,3150,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-formenton-tofana-di-dentro-3238-m,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:33:36,Via Ferrata Giuseppe Olivieri,Ferrata,5.1,700,2796,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-giuseppe-olivieri-punta-anna-2731-m-e-doss-de-tofana-2840-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:34:17,Sentiero attrezzato Giuseppe Olivieri,Ferrata,2.9,820,3110,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-giuseppe-olivieri-tofana-di-mezzo-stazione-ra-valles-2470-m,FALSE,,2,1,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:35:10,Ferrata Maria e Andrea Ferrari,Ferrata,1,120,2214,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-maria-e-andrea-ferrari-ra-bujela-2260-m,FALSE,,3,1,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:35:52,Via Ferrata Gianni Aglio & Ferrata alla Tofana di Mezzo,Ferrata,3.2,680,3159,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-gianni-aglio-ferrata-alla-tofana-di-mezzo-tofana-di-mezzo-3244-m,FALSE,,4,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:36:46,Sentiero Attrezzato Astaldi,Ferrata,3.3,270,2281,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-astaldi-punta-anna,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 20:37:31,Via Ferrata Giovanni Lipella,Ferrata,10.2,1120,3156,Belluno,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-giovanni-lipella-tofana-di-rozes-3225-m,FALSE,,4,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:38:34,La scala del Meneghel,Ferrata,11.4,890,2566,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/la-scala-del-meneghel-giro-attorno-alla-tofana-di-rozes,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:39:19,Via Ferrata Averau,Ferrata,3.8,280,2532,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-averau-averau-2649-m,FALSE,,2,1,X,FALSE,FALSE
-12/04/2020 20:40:10,Via Ferrata Ra Gusela,Ferrata,6.6,390,2539,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-ra-gusela-nuvolau-2574-m,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 20:41:19,Via Ferrata degli Alpini,Ferrata,3.7,540,2537,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-degli-alpini-col-dei-bos-2559-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:42:06,Via ferrata Kaiserjäger,Ferrata,12.6,880,2606,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-kaiserjaeger-col-ombert-2670-m,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 20:42:53,Via Ferrata Tomaselli,Ferrata,8.4,320,2799,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-tomaselli-cima-fanis-sud-2980-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:43:33,Cengia Veronesi,Ferrata,7.8,350,2834,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/cengia-veronesi-cima-fanis-sud,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:46:39,Via ferrata Sasso delle Nove,Ferrata,19.4,1390,2934,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-sasso-delle-nove-sasso-delle-nove-2968-m,FALSE,,2,1,X,FALSE,FALSE
-12/04/2020 20:47:51,Sentiero della Pace,Ferrata,20.2,1050,2652,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-della-pace-monte-vallon-bianco-2688-m,FALSE,,1,2,X,FALSE,FALSE
-12/04/2020 20:48:39,Ferrata Furcia Rossa,Ferrata,22.1,1090,2754,Val Pusteria,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-furcia-rossa-furcia-rossa-iii-2791-m,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:49:25,Tru Dolomieu,Ferrata,18.1,1220,2948,Val Pusteria,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/tru-dolomieu-piz-dles-cunturines-3064-m,FALSE,,1,2,X,FALSE,FALSE
-12/04/2020 20:50:14,Sasso di Santa Croce - Sasso delle Dieci,Ferrata,11.1,940,2983,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sasso-di-santa-croce-2907-m-sasso-delle-dieci-3026-m,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 20:51:17,Via Ferrata delle Trincee,Ferrata,5.9,370,2678,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-delle-trincee-sas-de-mezdi-mesola-2727-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:52:09,Via Ferrata Eterna,Ferrata,2.9,910,2894,Val di Fassa,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-eterna-punta-serauta-2962-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:52:57,Ferrata Cresta Ovest,Ferrata,5.5,810,3296,Val di Fassa,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-cresta-ovest-punta-penia-3343-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:53:39,Via Ferrata dei Finanzieri,Ferrata,4.7,520,2671,Val di Fassa,"Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-dei-finanzieri-colac-2715-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:55:05,Sentiero dei Kaiserjäger,Ferrata,5.2,640,2749,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-dei-kaiserjaeger-piccolo-lagazuoi-2778-m,FALSE,,4,2,X,FALSE,FALSE
-12/04/2020 20:56:22,Via Ferrata „I magnifici 4“,Ferrata,5.9,610,2160,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-i-magnifi-ci-4-maerins-quota-darrivo-2213-m,FALSE,,5,2,X,FALSE,FALSE
-12/04/2020 20:57:24,Via ferrata Franco Gadotti,Ferrata,8.4,1090,2599,Val di Fassa,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-franco-gadotti-sas-aut-2555-m-gruppo-del-vallaccia,FALSE,,2,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:58:11,Alta via Bepi Zac,Ferrata,6.7,450,2723,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/alta-via-bepi-zac-cima-della-costabella-2762-m,FALSE,,2,1,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 20:59:28,Via Ferrata Paolin Piccolin,Ferrata,9.2,1150,2453,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-paolin-piccolin-cima-dell-auta-orientale-2624-m,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 21:00:29,Via Ferrata Sass da Rocia,Ferrata,0.9,60,1577,Val di Fassa,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-sass-da-rocia-sass-da-rocia-1614-m,FALSE,,2,1,X,FALSE,FALSE
-12/04/2020 21:01:50,Via ferrata Cir V,Ferrata,3.4,360,2492,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-cir-v-cima-cir-v-2520-m,FALSE,,3,1,X,FALSE,FALSE
-12/04/2020 21:03:02,Via ferrata Gran Cir,Ferrata,2.8,310,2437,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-gran-cir-gran-cir-2592-m,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 21:03:54,Via Normale Sassongher,Ferrata,6.3,670,2521,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-normale-sassongher-sassongher-2665-m,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 21:04:57,Via ferrata Sass-Rigais,Ferrata,10.1,870,2919,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-sass-rigais-passaggio-est-sud,FALSE,,3,3,X,FALSE,FALSE
-12/04/2020 21:05:53,Via ferrata in memoriam Günther Messner,Ferrata,14.7,930,2616,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-in-memoriam-guenther-messner-odle-di-eores,FALSE,,3,2,X,FALSE,FALSE
-12/04/2020 21:06:59,Via ferrata Pisciadu,Ferrata,4.1,640,2609,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-pisciadu-rifugio-f-cavazza-al-pisciadu-2585-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:07:46,Ferrata Piz da Lech de Boe,Ferrata,2.7,370,2885,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-piz-da-lech-de-boe-piz-da-lech-de-boe-2910-m,FALSE,,3,1,"Also in ""...anello..."" & ""stupende ferrate...""",FALSE,FALSE
-12/04/2020 21:08:38,Via ferrata Vallon,Ferrata,7.3,600,3117,Val Pusteria,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-vallon-piz-boe-3152-m,FALSE,,3,2,X,FALSE,FALSE
-12/04/2020 21:09:42,Sentiero attrezzato Lichtenfels,Ferrata,7,600,3117,Val Pusteria,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-lichtenfels-piz-boe-3152-m,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 21:10:41,Via Ferrata Cesare Piazzetta,Ferrata,8.3,920,3117,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-cesare-piazzetta-piz-boe-3152-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:11:47,Via ferrata delle Meisules,Ferrata,12.7,970,2923,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-delle-meisules-piz-selva-2941-m,FALSE,,4,3,"Also in ""...anello..."" & ""stupende ferrate...""",FALSE,FALSE
-12/04/2020 21:12:50,Via ferrata Col Rodella,Ferrata,4.8,260,2441,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-col-rodella-col-rodella-2484-m,FALSE,,3,1,X,FALSE,FALSE
-12/04/2020 21:15:50,Via ferrata Oskar Schuster,Ferrata,12.8,1300,2909,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-oskar-schuster-sasso-piatto-2854-m,FALSE,,1,2,X,FALSE,FALSE
-12/04/2020 21:16:56,Via ferrata Maximilian,Ferrata,13.3,590,2598,Sciliar,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-maximilian-dente-di-terrarossa-2653-m-cima-di-terrarossa-2655-m,STANDBY,03/08/2019,2,2,X,FALSE,FALSE
-12/04/2020 21:17:38,Via ferrata Laurenzi,Ferrata,17.7,1250,2809,Sciliar,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-laurenzi-molignon-di-mezzo-2845-m,FALSE,,4,3,X,FALSE,FALSE
-12/04/2020 21:18:26,Traversata del Catinaccio d'Antermoia,Ferrata,11.6,1000,2966,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/traversata-del-catinaccio-d-antermoia-catinaccio-d-antermoia-3002-m,FALSE,,3,2,X,FALSE,FALSE
-12/04/2020 21:19:21,Via ferrata Passo Santner,Ferrata,7,780,2704,Sciliar,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-passo-santner-passo-santner-2745-m,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 21:20:08,Traversata della Roda di Vaèl,Ferrata,6,480,2615,Val di Fassa,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/traversata-della-roda-di-vael-roda-di-vael-2806-m,FALSE,,2,1,"Also in ""...anello..."" & ""stupende ferrate...""",FALSE,FALSE
-12/04/2020 21:20:45,Via ferrata Masare,Ferrata,6.2,380,2517,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-masare-cresta-di-masare-2600-m,FALSE,,3,1,X,FALSE,FALSE
-12/04/2020 21:21:22,Via Ferrata dei Campanili,Ferrata,11.1,790,2753,Sciliar,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-dei-campanili-latemar-2842-m,FALSE,,3,2,X,FALSE,FALSE
-12/04/2020 21:22:08,Sentiero attrezzato Attilio Sieff,Ferrata,4,450,1403,Val di Fiemme,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-attilio-sieff-punta-polse-1450-m,FALSE,,2,1,X,FALSE,FALSE
-12/04/2020 21:22:47,Via Ferrata Bolver-Lugli,Ferrata,7.8,980,2934,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-bolver-lugli-bivacco-fiamme-gialle-3005-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:23:31,Sentiero attrezzato N. Gusella e Via Ferrata del Velo,Ferrata,13.8,430,1550,Primiero,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-n-gusella-e-via-ferrata-del-velo-dal-passo-di-ball-al-rifugio-velo-della-madonna,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:24:18,Via Ferrata del Porton,Ferrata,12.3,420,2613,Primiero,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-del-porton-forcella-porton-2460-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:25:01,Ferrata Dino Buzzati,Ferrata,9.2,1140,2506,Primiero,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-dino-buzzati-cimerlo-2503-m,FALSE,,2,2,"Also in ""...anello..."" & ""stupende ferrate...""",FALSE,FALSE
-12/04/2020 21:25:40,Sentiero del cacciatore,Ferrata,13.9,1300,2503,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-del-cacciatore-cima-stanga-2550-m,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:26:15,Via Ferrata del Canalone,Ferrata,7.1,760,2038,Primiero,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-del-canalone-punta-della-disperazione-1730-m,FALSE,,4,1,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:27:08,Via ferrata Fiamme Gialle,Ferrata,12.8,1470,2748,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-fiamme-gialle-bivacco-reali-2595-m,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:28:24,Ferrata dell'Orsa,Ferrata,13.9,1600,2506,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-dell-orsa-sentiero-del-dottor,FALSE,,3,2,X,FALSE,FALSE
-12/04/2020 21:29:01,Ferrata Stella Alpina,Ferrata,9.4,1490,2658,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-stella-alpina-monte-agner-2872m,FALSE,,4,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:30:10,Ferrata degli Alleghesi,Ferrata,18.5,1820,3177,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-degli-alleghesi-monte-civetta-3220-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:30:59,Ferrata Attilio Tissi,Ferrata,10.8,1290,2937,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-attilio-tissi-monte-civetta-3220-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:32:04,Via Ferrata Gianni Costantini,Ferrata,11,1260,2817,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-gianni-costantini-cima-moiazza-sud-2878-m,FALSE,,5,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:33:36,Via Ferrata Fiamme al Monte Pelsa,Ferrata,6.2,1230,2194,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-fiamme-al-monte-pelsa-la-palazza-alta-2255-m,FALSE,,4,2,X,FALSE,FALSE
-12/04/2020 21:34:30,Ferrata Gianangelo Sperti,Ferrata,17.1,1890,2357,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-gianangelo-sperti-monte-schiara-2565-m,FALSE,,3,3,X,FALSE,FALSE
-12/04/2020 21:35:10,Ferrata L. Zacchi,Ferrata,15.4,1910,2373,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-l-zacchi-bivacco-bernardina-2320-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:35:53,Ferrata Piero Rossi,Ferrata,17.1,2060,2530,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-piero-rossi-monte-schiara-2565-m,FALSE,,2,3,X,FALSE,FALSE
-12/04/2020 21:36:35,Ferrata A. Berti,Ferrata,15.9,1890,2364,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-a-berti-monte-schiara-2565-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-12/04/2020 21:37:17,Sentiero alpinistico M. Guardiano,Ferrata,17.6,1970,2460,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-alpinistico-m-guardiano-monte-pelf-2505-m,FALSE,,2,3,X,FALSE,FALSE
-12/04/2020 21:38:26,Via ferrata della Tabaretta,Ferrata,9.6,770,2995,Val Venosta,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-della-tabaretta-punta-tabaretta-sull-ortles-3050-m,FALSE,,5,3,X,FALSE,FALSE
-12/04/2020 21:39:31,Via Ferrata Hoachwool,Ferrata,3.3,760,1286,Merano,"Apr, May, Jun, Sep, Oct, Nov",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-hoachwool-naturno-stazione-a-monte-della-funivia-unterstell-1300-m,FALSE,,5,2,X,FALSE,FALSE
-12/04/2020 21:40:25,"Via ferrata ""Heini Holzer""",Ferrata,6.3,660,2528,Merano,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-heini-holzer-piccolo-ivigna-2552-m,FALSE,,3,2,X,FALSE,FALSE
-12/04/2020 21:41:17,Ferrata di Valdaora,Ferrata,9.1,1000,2508,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-di-valdaora-cima-dei-colli-alti-2542-m,FALSE,,1,2,X,FALSE,FALSE
-12/04/2020 21:43:06,Ferrata di Favogna,Ferrata,12.7,970,1149,Oltradige,"Mar, Apr, May, Sep, Oct, Nov",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-di-favogna-favogna-di-sotto-1047-m,STANDBY,30/04/2018,1,2,X,FALSE,FALSE
-12/04/2020 21:45:28,Sentiero attrezzato Burrone-Giovanelli,Ferrata,8.5,700,939,Val d'Adige,"Mar, Apr, May, Jun, Sep, Oct, Nov",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-burrone-giovanelli-monte-891-m,STANDBY,19/08/2018,1,1,X,FALSE,FALSE
-12/04/2020 21:47:15,Via Ferrata Rio Secco,Ferrata,2.2,390,611,Val d'Adige,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-rio-secco-dosson-625-m,TRUE,30/07/2019,3,1,X,FALSE,FALSE
-12/04/2020 21:48:17,Via Ferrata delle Aquile,Ferrata,3.1,350,2104,Val d'Adige,"Apr, May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-delle-aquile-la-paganella-2124-m,FALSE,,3,1,X,FALSE,FALSE
-12/04/2020 21:48:58,Via attrezzata Rino Pisetta,Ferrata,4.9,620,938,Val d'Adige,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-attrezzata-rino-pisetta-cima-garzolet-967-m,FALSE,,5,2,X,FALSE,FALSE
-12/04/2020 21:49:41,Via Ferrata Ernesto Che Guevara,Ferrata,12.4,1370,1621,Garda e Ledro,"Jan, Feb, Mar, Apr, May, Jun, Sep, Oct, Nov, Dec",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-ernesto-che-guevara,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 21:50:18,Via Ferrata Artpinistico delle Niere,Ferrata,1,160,778,Giudicarie,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-artpinistico-delle-niere,FALSE,,2,1,X,FALSE,FALSE
-12/04/2020 21:51:06,Ferrata delle Sasse,Ferrata,4.7,210,562,Garda e Ledro,"Apr, May, Jun, Sep, Oct, Nov",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-delle-sasse,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 21:51:47,Ferrata delle Taccole,Ferrata,8.6,870,2141,Garda e Ledro,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-delle-taccole,FALSE,,2,3,X,FALSE,FALSE
-12/04/2020 21:52:29,Ferrata Giordano Bertotti,Ferrata,4.3,520,1308,Valsugana,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-giordano-bertotti-croce-di-chegul-1263-m,FALSE,,1,1,X,FALSE,FALSE
-12/04/2020 21:53:09,Ferrata Gerardo Sega,Ferrata,7.8,460,1194,Garda e Ledro,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-gerardo-sega,FALSE,,2,2,X,FALSE,FALSE
-12/04/2020 21:55:28,Sentiero Gustavo Vidi,Ferrata,4.4,180,2626,Giudicarie,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-gustavo-vidi-punto-piu-elevato-2680-m-a-sud-della-cima-pietra-grande,FALSE,,1,2,X,FALSE,FALSE
-12/04/2020 22:23:37,Ferrata Sandro Pertini,Ferrata,,700,2312,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,http://www.veramontagna.it/Trentino/Trentino-esperienze-vere/Via-Ferrata-Sandro-Pertini-al-Monte-Stevia-Smantellata-a-fine-2014,FALSE,,4,0,X,FALSE,FALSE
-12/04/2020 22:25:56,Ferrata Masare e Roda di Vael,Ferrata,,850,2806,Val di Fassa,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""...anello..."" & ""atlante...""",FALSE,FALSE
-12/04/2020 22:27:57,Ferrata Brigata Tridentina,Ferrata,,620,2585,Val Pusteria,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,https://www.ferrate365.it/vie-ferrate/ferrata-tridentina-pisciadu-sella/,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:28:53,Ferrata delle Meisules,Ferrata,,1000,2941,Valle Isarco,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""...anello..."" & ""atlante...""",FALSE,FALSE
-12/04/2020 22:29:52,Ferrata Cesare Piazzetta,Ferrata,,900,3152,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:30:47,Ferrata Piz da Lech de Boè,Ferrata,,420,2913,Val Pusteria,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""...anello..."" & ""atlante...""",FALSE,FALSE
-12/04/2020 22:32:26,Ferrata delle Trincee,Ferrata,,740,2727,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:33:23,Cresta Ovest della Marmolada,Ferrata,,1030,3343,Val di Fassa,"Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:34:13,Via Eterna Ferrata Brigata Cadore,Ferrata,,1050,2962,Val di Fassa,"Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:35:03,Ferrata dei Finanzieri,Ferrata,,700,2715,Val di Fassa,"Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,4,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:35:58,Ferrata Franco Gadotti,Ferrata,,1050,2637,Val di Fassa,"Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:36:54,Alta Via Attrezzata Bepi Zac,Ferrata,,1320,2765,Val di Fassa,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:37:35,Ferrata Bolver-Lugli,Ferrata,,1160,3005,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:38:16,Ferrata del Porton,Ferrata,,1430,2460,Primiero,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:39:03,Ferrata del Velo,Ferrata,,1430,2550,Primiero,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:39:43,Sentiero Dino Buzzati,Ferrata,,1430,2460,Primiero,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""...anello..."" & ""atlante...""",FALSE,FALSE
-12/04/2020 22:40:42,Sentiero Nico Gusela,Ferrata,,1650,2680,Primiero,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:42:00,Sentiero del Cacciatore,Ferrata,,1460,2550,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:44:25,Sentiero Camillo Depaoli,Ferrata,,1500,2680,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,X,FALSE,FALSE
-12/04/2020 22:45:20,Ferrata Stella Alpina,Ferrata,,1170,2872,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:45:58,Sentiero del Canalone,Ferrata,,1720,2872,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,X,FALSE,FALSE
-12/04/2020 22:47:43,Ferrata Cesco Tomaselli,Ferrata,,940,2980,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:50:03,Ferrata della Piramide,Ferrata,,500,2559,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:50:58,Ferrata Giovanni Lipella,Ferrata,,1400,3225,Belluno,"Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:51:58,Ferrata Giuseppe Olivieri,Ferrata,,1240,2731,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:52:55,Ferrata Gianni Aglio,Ferrata,,1240,3244,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:53:16,Ferrata Tofana di Mezzo,Ferrata,,1240,3244,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:54:04,Sentiero Giuseppe Olivieri,Ferrata,,1240,3244,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:55:29,Ferrata Albino Michielli Strobel,Ferrata,,950,2240,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:56:20,Sentiero Ferrato Ivano Dibona,Ferrata,,1750,3008,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:57:31,Ferrate della Torre di Toblin,Ferrata,,1730,2617,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:58:10,Ferrata de Luca-Innerkofler,Ferrata,,1730,2744,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-12/04/2020 22:59:20,Strada degli Alpini,Ferrata,,950,2640,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-13/04/2020 13:24:01,Ferrata alla Croda Rossa di Sesto,Ferrata,,1400,2936,Val Pusteria,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-13/04/2020 13:24:36,Ferrata Mario Zandonella,Ferrata,,1400,2936,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,4,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-13/04/2020 13:25:48,Ferrata Aldo Roghel,Ferrata,,1420,2560,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-13/04/2020 13:26:48,Ferrata Cengia Gabriella,Ferrata,,1420,2560,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-13/04/2020 13:27:48,Via Ferrata Sci Club 18,Ferrata,,640,2123,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-13/04/2020 13:29:06,Ferrata Alfonso Vandelli,Ferrata,,1760,2670,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2.3,0,"Also in ""Atlante delle Vie ferrate""",FALSE,FALSE
-13/04/2020 13:30:24,Sentiero Attrezzato Carlo Minazio,Ferrata,,1760,2670,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,X,FALSE,FALSE
-13/04/2020 13:31:03,Percorso Ferrato Francesco Berti,Ferrata,,1760,2670,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-13/04/2020 13:32:14,Ferrata Fiamme Gialle,Ferrata,,1480,2255,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-13/04/2020 13:33:14,Ferrata degli Alleghesi,Ferrata,,1600,3220,Belluno,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-13/04/2020 13:33:55,Ferrata Attilio Tissi,Ferrata,,1600,3220,Belluno,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-13/04/2020 13:34:53,Ferrata Gianni Costantini,Ferrata,,1400,2878,Belluno,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,6,0,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-13/04/2020 13:35:54,Ferrata Zacchi,Ferrata,,2150,2565,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-13/04/2020 13:36:33,Ferrata Berti,Ferrata,,2150,2565,Belluno,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Stupende ferrate delle Dolomiti""",FALSE,FALSE
-13/04/2020 13:37:23,Ferrata Marmol,Ferrata,,2150,2565,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 13:38:30,Ferrata Laserz,Ferrata,,1000,2568,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,https://www.tirolo.tl/it/sport-e-tempo-libero/scalate-e-arrampicate/via-ferrata-laserz/,FALSE,,4.5,0,X,FALSE,FALSE
-13/04/2020 13:40:24,Ferrata dei Cinquanta,Ferrata,,1350,2458,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,https://www.ferrate365.it/vie-ferrate/ferrata-cinquanta-del-clap-creton-culzei/,FALSE,,4,0,X,FALSE,FALSE
-13/04/2020 13:41:20,Vie delle Bocchette,Ferrata,,1200,3020,Giudicarie,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""... anello...""",FALSE,FALSE
-13/04/2020 13:43:16,Sentiero Alpinistico Angelo Pojesi,Ferrata,,1150,2259,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,https://www.ferrate365.it/vie-ferrate/sentiero-attrezzato-angelo-pojesi-carega/,FALSE,,2,0,X,FALSE,FALSE
-13/04/2020 13:43:35,Ferrata Carlo Campalani,Ferrata,,1150,2259,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 13:44:58,Ferrata Clap Varmost,Ferrata,,310,1751,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,https://www.for-adventure.it/adventure-climb-varmost-ferrata-sportiva.html,FALSE,,4,0,X,FALSE,FALSE
-13/04/2020 23:30:23,Sul Pasubio,Bike,34.1,1280,2203,Vallagarina,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/sul-pasubio,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:32:54,L'Altopiano di Folgaria,Bike,41.2,940,1781,Valsugana,"Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/l-altopiano-di-folgaria,FALSE,,2,0,X,FALSE,FALSE
-13/04/2020 23:34:05,Sul Sentiero della pace di Lavarone,Bike,36.4,1200,1488,Valsugana,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/sul-sentiero-della-pace-di-lavarone,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:35:17,L'Alta Val di Non e il Macaion,Bike,34.5,1070,1854,Val di Non,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/l-alta-val-di-non-e-il-macaion,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:36:43,Le malghe di Val delle Stue,Bike,29.1,1230,2033,Val di Fiemme,"Apr, May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/le-malghe-di-val-delle-stue,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:37:58,Al pian del Maseron in Val Sadole,Bike,27,1350,1847,Val di Fiemme,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/al-pian-del-maseron-in-val-sadole,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:39:08,Col Margherita,Bike,34.3,1430,2505,Val di Fassa,"May, Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/col-margherita,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:40:23,Al Passo San Nicoló,Bike,30.2,1060,2364,Val di Fassa,"Apr, May, Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/al-passo-san-nicolo,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:45:06,La Forra del Bletterbach,Bike,38.4,1180,1893,Oltradige,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/la-forra-del-bletterbach,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:47:09,Sulla Cima degli Stoanerne Mandln,Bike,28.1,760,1785,Sciliar,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/sulla-cima-degli-stoanerne-mandln,FALSE,,2,0,X,FALSE,FALSE
-13/04/2020 23:48:51,La Valdurna,Bike,38.6,1290,1795,Sciliar,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/la-valdurna,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:50:08,I laghi e le malghe di Fié,Bike,25.4,910,1395,Sciliar,"Apr, May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/i-laghi-e-le-malghe-di-fie,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:52:00,Le Alpi Mastlé e Cisles,Bike,28,1280,2406,Valle Isarco,"May, Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/le-alpi-mastle-e-cisles,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:53:23,Intorno al Sass de Putia,Bike,35.3,1200,2344,Valle Isarco,"May, Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/intorno-al-sass-de-putia,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:54:53,Il giro dei Colli Alti,Bike,49.2,1640,2280,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/il-giro-dei-colli-alti,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:56:34,La Malga Waldner in Valle Aurina,Bike,23.7,950,2148,Val Pusteria,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/la-malga-waldner-in-valle-aurina,FALSE,,2,0,X,FALSE,FALSE
-13/04/2020 23:58:14,La Val di Fosse,Bike,23.7,1030,2210,Merano,"Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/la-val-di-fosse,FALSE,,3,0,X,FALSE,FALSE
-13/04/2020 23:59:42,Il Sentiero delle Malghe di Stelvio,Bike,40.3,1510,2265,Val Venosta,"Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/il-sentiero-delle-malghe-di-stelvio,FALSE,,3,0,X,FALSE,FALSE
-14/04/2020 0:11:47,Pista ciclabile della Valsugana,Bike,81.7,170,488,Valsugana,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",X,https://www.sentres.com/it/bici/pista-ciclabile-della-valsugana,FALSE,,2,0,X,FALSE,FALSE
-14/04/2020 0:13:33,Pista ciclabile della Val di Non,Bike,20.5,300,1052,Val di Non,"Apr, May, Jun, Jul, Aug, Sep",X,https://www.sentres.com/it/bici/pista-ciclabile-della-val-di-non,FALSE,,1,0,X,FALSE,FALSE
-14/04/2020 0:15:30,Ciclabile Fassa–Fiemme,Bike,44.6,20,1442,Val di Fassa,"May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/ciclabile-fassa-fiemme,TRUE,26/08/2019,1,0,X,FALSE,FALSE
-14/04/2020 0:16:26,Giro dei laghi in Trentino,Bike,24.5,160,558,Valsugana,"Apr, May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/giro-dei-laghi-in-trentino,FALSE,,1,0,X,FALSE,FALSE
-14/04/2020 0:17:22,Il giro dei Laghi di Levico e Caldonazzo,Bike,23.9,160,558,Valsugana,"Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",X,https://www.sentres.com/it/sentieri-mountain-bike/valsugana-e-lagorai-il-giro-dei-laghi-di-levico-e-caldonazzo,FALSE,,1,0,X,FALSE,FALSE
-14/04/2020 0:19:05,Lungo la Via del Brenta,Bike,80.6,360,482,Valsugana,"Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",X,https://www.sentres.com/it/sentieri-mountain-bike/lungo-la-via-del-brenta,FALSE,,2,0,X,FALSE,FALSE
-14/04/2020 0:32:20,Ciclabile della Val Venosta,Bike,75.9,180,1550,Val Venosta,"May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/bici/la-pista-ciclabile-della-val-venosta,FALSE,,1,0,X,FALSE,FALSE
-14/04/2020 0:33:30,Ciclabile Merano-Bolzano,Bike,34.6,30,318,Merano,"Apr, May, Jun, Sep, Oct, Nov",X,https://www.sentres.com/it/bici/da-merano-fino-a-bolzano,FALSE,,1,0,X,FALSE,FALSE
-14/04/2020 0:34:25,Ciclabile Bassa Atesina,Bike,68.3,130,271,Oltradige,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",X,https://www.sentres.com/it/bici-da-corsa/pista-ciclabile-bassa-atesina,FALSE,,1,0,X,FALSE,FALSE
-14/04/2020 0:35:50,Ciclabile Bressanone - Bolzano,Bike,41.6,110,565,Valle Isarco,"Apr, May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/pista-ciclabile-bressanone-bolzano,FALSE,,1,0,X,FALSE,FALSE
-14/04/2020 0:37:17,Lungo l’Isarco fino a Bressanone,Bike,25,40,568,Valle Isarco,"Apr, May, Jun, Sep, Oct",x,https://www.sentres.com/it/bici/lungo-l-isarco-fino-a-bressanone,FALSE,,2,0,X,FALSE,FALSE
-14/04/2020 0:38:23,Ciclabile Vipiteno-Bressanone,Bike,32.7,190,986,Valle Isarco,"Apr, May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/pista-ciclabile-vipiteno-bressanone,FALSE,,2,0,X,FALSE,FALSE
-14/04/2020 0:39:33,Tour del fiume Aurino,Bike,31.4,110,1673,Val Pusteria,"May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/tour-del-fiume-aurino,FALSE,,2,0,X,FALSE,FALSE
-14/04/2020 0:40:53,Ciclabile in Valle di Tures,Bike,24.4,50,883,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/bici/ciclabile-per-famiglie-in-valle-di-tures,FALSE,,2,0,X,FALSE,FALSE
-14/04/2020 0:42:01,Pista ciclabile della Drava,Bike,53.9,200,1211,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/bici/pista-ciclabile-della-drava,FALSE,,1,0,X,FALSE,FALSE
+Marca de temps,Destination,Type,Distance,Denivell,Altitude,Region,Period [.],Source,Web,Done,Date,Difficulty,Overall,Comments
+07/04/2020 21:47:27,Cima Ambiez,Ferrata,10,1436,2885,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,3,3,X
+07/04/2020 21:48:31,Cima Tosa e Crozzon di Brenta,Ferrata,20.4,1629,2885,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,3,X
+07/04/2020 21:49:26,Cima Ceda,Ferrata,11.2,1380,2860,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,3,3,X
+07/04/2020 21:50:12,Bocchette Centrali,Ferrata,17.6,1236,2770,Giudicarie,"Jun, Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,3,"Also in ""Stupende ferrate delle Dolomiti"""
+07/04/2020 21:51:01,Bocchette Alte,Ferrata,15.9,1537,3020,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,5,3,"Also in ""Stupende ferrate delle Dolomiti"""
+07/04/2020 22:07:55,Cima Brenta,Ferrata,21.6,1509,2749,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,3,3,X
+07/04/2020 22:08:43,Cima Falkner,Ferrata,9.6,735,2910,Giudicarie,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,https://www.sentres.com/it/via-ferrata/sentiero-alfredo-benini,TRUE,15/07/2018,2,3,"Also in ""Atlante delle Vie ferrate: Sentiero Alfredo Benini [107]"" & ""3000 delle Dolomiti [GE1]"""
+07/04/2020 22:26:15,Pietra Grande,Hike,9.6,610,2614,Giudicarie,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 22:27:12,Monte Peller,Hike,10.1,215,2104,Val di Non,"Jun, Jul, Aug, Sep, Oct, Nov",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,24/09/2017,2,0,X
+07/04/2020 22:28:07,Catena della Campa,Hike,23,1816,2378,Giudicarie,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:12:14,"Croz dell'Altissimo, Cima dei Lasteri e Piz Galin",Hike,12.2,1009,2164,Val d'Adige,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,07/07/2019,2.5,0,X
+07/04/2020 23:13:10,Cima Valsorda,Hike,10,675,2671,Sciliar,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,0,X
+07/04/2020 23:13:52,Campanili del Latemar,Ferrata,14.8,966,2750,Sciliar,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+07/04/2020 23:14:53,Roda di Vael,Hike,10.3,807,2560,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,16/06/2018,2,0,"Also in ""Atlante..."" & ""Stupende ferrate..."""
+07/04/2020 23:30:59,Coronelle e Mugoni,Hike,16.8,1237,2630,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:31:48,Cima Catinaccio,Ferrata,7.7,1018,2741,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+07/04/2020 23:32:37,Cime del Principe,Hike,16.4,1539,2598,Sciliar,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,03/08/2019,2,0,X
+07/04/2020 23:33:25,Molignon e Catinaccio d'Antermoia,Hike,21.4,1557,2769,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:34:11,Cima Scalieret,Ferrata,15.2,1273,2769,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+07/04/2020 23:35:16,Larsec,Ferrata,5.7,700,2550,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+07/04/2020 23:38:25,Sassopiatto,Hike,14.9,821,2681,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,28/08/2019,2,0,X
+07/04/2020 23:39:25,Sassolungo,Hike,9.7,567,2681,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,28/08/2019,2,0,X
+07/04/2020 23:40:15,Sassolungo e Sassopiatto,Hike,18.5,235,2318,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,28/08/2019,1,0,X
+07/04/2020 23:41:33,Odle,Hike,15.8,1190,2642,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:42:23,Odle di Eores,Hike,12.9,939,2357,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,13/07/2019,1,0,X
+07/04/2020 23:43:10,Sass di Putia,Hike,11.2,399,2357,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,0,X
+07/04/2020 23:44:02,Puez,Ferrata,18.8,1400,2737,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,1,X
+07/04/2020 23:45:02,Sass Ciampac,Hike,11.3,696,2528,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,0,X
+07/04/2020 23:45:55,Sassongher,Hike,11.2,1010,2435,Valle Isarco,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:46:51,Mesules,Ferrata,12.9,888,2974,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,5,3,"Also in ""Atlante..."" & ""Stupende ferrate..."""
+07/04/2020 23:47:48,Masores de Pissadu,Ferrata,7.8,637,2610,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,2,X
+07/04/2020 23:48:32,Cima Pissadu e Sass de Mezdi,Ferrata,11.6,1275,2907,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,2,X
+07/04/2020 23:49:19,Piz da Lech de Boe,Ferrata,14.5,1469,3009,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,1,"Also in ""Atlante..."" & ""Stupende ferrate..."""
+07/04/2020 23:50:03,Piz Boe,Ferrata,11.1,895,3124,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,31/08/2019,1,1,X
+07/04/2020 23:50:47,Col Aut e Col  Toron,Hike,10.5,1109,2907,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:51:32,Sass Pordoi,Hike,10.6,954,2829,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:52:27,Vallaccia,Hike,20.4,1367,2525,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:53:27,Monzoni,Ferrata,15.9,1323,2647,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+07/04/2020 23:54:18,Catena di Costabella,Ferrata,14.9,1195,2762,Val di Fassa,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+07/04/2020 23:55:02,Col Ombert,Hike,11.2,863,2498,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:55:57,Collac e Sasso Nero,Ferrata,12.8,1245,2540,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,1,X
+07/04/2020 23:56:42,Cresta del Padon,Hike,12.2,914,2632,Val di Fassa,"Jun, Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,TRUE,23/06/2018,2,0,X
+07/04/2020 23:57:39,Marmolada,Ferrata,16.4,1185,2896,Val di Fassa,"Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+07/04/2020 23:58:23,Cima Ombretta e Sasso Vernale,Hike,22.2,2123,2864,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:59:07,Cima Ombrettola,Hike,12.1,1190,2864,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+07/04/2020 23:59:50,Sasso di Valfredda,Hike,12.6,1341,2836,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2.5,0,X
+08/04/2020 0:00:44,Monte Fop e Pale del Fop,Hike,17.7,1486,2777,Val di Fassa,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2.5,0,X
+08/04/2020 0:01:35,Cime d'Auta,Hike,14.6,1263,2312,Val di Fassa,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+08/04/2020 0:02:28,Sasso Bianco,Hike,13,801,2056,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,1,0,X
+08/04/2020 0:03:18,Cimerlo,Ferrata,11.1,1204,2530,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,"Also in ""Atlante..."" & ""Stupende ferrate..."""
+08/04/2020 0:04:05,Cima della Madonna e Sass Maor,Ferrata,11.6,1568,2530,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,4,3,X
+08/04/2020 0:04:44,Cima di Ball,Ferrata,11.7,1613,2705,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,4,3,X
+08/04/2020 0:05:31,Cima di Val di Roda,Ferrata,14.2,1210,2705,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,3,X
+08/04/2020 0:06:15,Pala di San Martino,Hike,9.8,638,2711,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+08/04/2020 0:07:14,Croda della Pala,Ferrata,5.7,1276,3005,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,5,3,X
+08/04/2020 0:08:07,C. Corona e C. delle Comelle,Ferrata,10.9,1270,3192,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+08/04/2020 0:08:52,Cima Vezzana e Cimon del la Pala,Ferrata,22.1,1885,2932,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+08/04/2020 0:09:29,Monte Mulaz,Ferrata,9.7,760,2619,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,STANDBY,18/06/2017,2,1,X
+08/04/2020 0:10:05,Cima del Focobon,Ferrata,11.9,1735,2932,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+08/04/2020 0:10:53,Sasso Negro,Hike,12,1001,2334,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+08/04/2020 0:11:30,Cima Canali,Ferrata,14.9,1733,2695,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+08/04/2020 0:12:12,Campanili d'Ostio e Cima di Sedole,Ferrata,9.8,1118,2298,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,2,X
+08/04/2020 0:12:59,La Fradusta e Cima dei Lastei,Hike,15.1,1596,2727,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2.5,0,X
+08/04/2020 0:13:44,Vani Alti e Sass d'Ortiga,Ferrata,11.7,1727,2733,Primiero,"Jul, Aug, Sep",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,3,X
+08/04/2020 0:14:27,Pala della Madonna,Hike,12,1357,2244,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+08/04/2020 0:15:05,Cima d'Oltro,Hike,10.3,1194,2229,Primiero,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
+08/04/2020 16:37:09,Cima Slavazzaie,Hike,,1450,2427,Val di Non,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:38:12,Monte Pin,Hike,,1380,2419,Val di Non,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:38:44,Cima di Quaira,Hike,,1480,2752,Val di Non,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X
+08/04/2020 16:40:20,Cima Tremenesca,Hike,,1650,2882,Val di Sole,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,STANDBY,20/07/2019,1.5,0,Cabres
+08/04/2020 16:40:48,Cima Rossa di Saent,Hike,,1900,3347,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:41:21,Monte Le Pozze,Hike,,1050,2824,Val di Sole,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:42:39,Monte Palu,Hike,,1700,2835,Val di Sole,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:43:07,Cima Venezia,Hike,,1530,3386,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:43:30,Punta di Ercavallo,Hike,,1450,3068,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:46:18,Cima di Pozzi,Hike,,1050,2890,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:46:48,Cima di Stavei,Hike,,1530,2622,Val di Sole,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:47:56,Cima Scarpaco,Hike,,1200,3252,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,30/08/2019,1.5,0,X
+08/04/2020 16:49:01,Pala della Falculotta,Hike,,970,2520,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:49:25,Cima Cop di Breguzzo,Hike,,1770,3001,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:49:51,Cima Danerba,Hike,,1680,2910,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:50:23,Corno d'Arno,Hike,,1300,2849,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,2,0,X
+08/04/2020 16:50:48,Monte Corona,Hike,,1300,2508,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:51:25,Corno di Grevo,Hike,,1100,2869,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,3,0,X
+08/04/2020 16:55:07,Monte Bruffioni,Hike,,1170,2664,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:36:55,Cima Vagliana,Hike,,1200,2861,Val di Non,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:37:23,Corno di Flavona,Hike,,1470,2918,Val di Non,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:37:50,Sasso Alto - Cima Sassara,Hike,,1600,2894,Val di Non,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:38:52,La Rocca,Hike,,1100,2496,Val di Non,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:39:35,Cima di Val Scura,Hike,,1320,2670,Val di Non,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:40:47,Cima Dagnola,Hike,,1200,2915,Val d'Adige,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie del Trentino,,TRUE,07/07/2019,1,0,X
+08/04/2020 17:41:38,Monte Fibbion,Hike,,1750,2665,Val d'Adige,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:42:22,Cima di Santa Maria,Hike,,1830,2678,Val d'Adige,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:43:42,Cima SUSAT,Hike,,1200,2890,Giudicarie,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,18/08/2019,1,0,X
+08/04/2020 17:44:12,La Crona,Hike,,1700,2324,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:44:43,Cima della Forcolotta,Hike,,1650,2507,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:45:06,Cimon di Cresole,Hike,,1970,2855,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:45:37,Monte Brugnol,Hike,,1400,2221,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,27/07/2019,1,0,X
+08/04/2020 17:46:28,Colmo di Valgelada,Hike,,1630,2255,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:47:13,Cima di Ghez,Hike,,1670,2715,Giudicarie,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:47:55,Monte Canfedin,Hike,,1500,2034,Val d'Adige,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,16/06/2019,1,0,X
+08/04/2020 17:48:24,Cima Roccapiana,Hike,,1700,1873,Val d'Adige,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,24/08/2019,1,0,X
+08/04/2020 17:53:28,Monte Fregasoga,Hike,,750,2447,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:54:22,Cima Agnelezza,Hike,,800,2234,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 17:55:24,Monte Montalon,Hike,,1150,2501,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 20:52:04,Cima Orsera,Hike,,1170,2471,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 20:52:51,Cima delle Buse,Hike,,1300,2574,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 20:53:29,Cima di Laugrai,Hike,,1100,2530,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 20:54:03,Monte Laste delle Sute,Hike,,1200,2616,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:06:06,Monte Castelletto,Hike,,1100,2337,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:06:47,Cima Caldenave,Hike,,1150,2442,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X
+08/04/2020 21:07:45,Cima Trento,Hike,,1150,2530,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,3,0,X
+08/04/2020 21:08:22,Tombola Nera,Hike,,1250,2439,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:08:53,Monte Tolva,Hike,,1000,2343,Valsugana,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:09:35,Monte Cauriol,Hike,,1400,2494,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,STANDBY,05/10/2019,1.5,0,X
+08/04/2020 21:10:05,Cima di Valsorda,Hike,,1400,2287,Primiero,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:10:39,Cima Scanaiol,Hike,,900,2467,Primiero,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,2,0,X
+08/04/2020 21:11:15,Castel delle Aie,Hike,,900,2475,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:11:56,Cima Ovest di Bragarolo,Hike,,1250,2692,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X
+08/04/2020 21:12:59,Monte Feltraio,Hike,,1000,2295,Primiero,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:13:30,Sasso delle Lede,Hike,,1300,2580,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:14:06,Cima Manstorna,Hike,,1550,2816,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:14:33,Cima delle Scarpe,Hike,,1600,2802,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:15:10,Cima dei Bureloni,Ferrata,,1500,3130,Primiero,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=80,TRUE,11/08/2019,3,1.3,"Also in ""3000 delle Dolomiti"" #80"
+08/04/2020 21:16:06,Cima Pelenzana,Hike,,1200,2181,Val di Fiemme,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X
+08/04/2020 21:16:29,Sasso Vernale,Hike,,1300,3058,Val di Fassa,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 21:21:19,Mompiccio,Hike,,1550,3162,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:21:58,Piz Starlex,Hike,,1300,3075,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:22:28,Punta Livi,Hike,,1500,3352,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:23:00,Punta Martello,Hike,,1400,3357,Val Venosta,"Jun, Jul, Aug, Sep",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:23:47,Punta Peder di Dentro,Hike,,1300,3309,Val Venosta,"Jul, Aug, Sep",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:24:15,Punta dello Scudo,Hike,,1450,3461,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:24:55,Punta di Sluder,Hike,,1500,3230,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:25:28,Cima dei Corvi,Hike,,1600,3393,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:25:58,Cima di Pleres,Hike,,1400,3188,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:26:23,Cima Ramudla,Hike,,1550,3330,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:27:30,Punta d'Alliz,Hike,,1550,3206,Val Venosta,"Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:28:01,Punta di Rems,Hike,,1400,3212,Val Venosta,"Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:28:36,Spizat,Hike,,1300,3038,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:29:24,Cima Culla,Hike,,1600,3109,Val Venosta,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:29:54,Cima Culla Alta,Hike,,1600,2978,Val Venosta,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:30:21,Cima Mastaun,Hike,,1700,3200,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:30:48,Crodarotta,Hike,,1300,2890,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:31:15,Punta Oberettes Sud,Hike,,1350,3296,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:31:51,Punta dei Corvi,Hike,,1600,3407,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:32:20,Punta di Trumes,Hike,,1500,2912,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:32:54,Monte di Tarres,Hike,,1400,2952,Val Venosta,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:33:28,Punta di Rasass,Hike,,1400,2941,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:34:03,Piz Cristanas,Hike,,1750,3092,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:34:32,Punta Luco di Mezzo,Hike,,1600,3176,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:35:08,Punta della Gallina,Hike,,1200,3142,Val Venosta,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,2,0,X
+08/04/2020 21:35:47,Piz Clopai,Hike,,1200,2917,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:36:11,Dosso di Valcuna,Hike,,1100,3006,Val Venosta,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:37:08,Monte Ometto,Hike,,1000,2395,Merano,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:37:41,Seekopflspitze,Hike,,1200,2564,Merano,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:38:11,Collecchio,Hike,,1300,2957,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:38:56,Gioveretto,Hike,,1550,3439,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:39:17,Monte Stanga,Hike,,1200,2644,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:39:46,Orecchia di Lepre,Hike,,1600,3257,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:40:16,Guardia Alta,Hike,,1250,2608,Merano,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:40:39,Beilspitze,Hike,,1300,3058,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,2,0,X
+08/04/2020 21:41:02,Cima del Laug Nero,Hike,,1350,2988,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:41:27,Croda della Cintola,Hike,,1200,2858,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:41:56,La Clava,Hike,,1400,2868,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:42:17,Laste di Verdins,Hike,,1400,2680,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,3,0,X
+08/04/2020 21:42:39,Punta Alpetta,Hike,,1700,2748,Merano,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:43:03,Monte Scabro di Plan,Hike,,1300,2926,Merano,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:43:29,Cima Kirchbach,Hike,,1550,2951,Merano,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:44:52,Cima di Vidacqua,Hike,,950,2512,Sciliar,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:45:20,Monte Villandro,Hike,,1100,2509,Sciliar,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:45:48,Punta Valcenai,Hike,,1250,2662,Sciliar,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:46:19,Cima di Quaire,Hike,,1000,2412,Sciliar,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:47:13,Guardia Alta,Hike,,1500,2746,Sciliar,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:47:46,Montaccio di Pennes,Hike,,1200,2526,Sciliar,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:48:22,Corno di Tramin,Hike,,1300,2708,Sciliar,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:48:52,Grubenkopf,Hike,,1250,2606,Sciliar,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,2,0,X
+08/04/2020 21:49:15,Monte della Croce,Hike,,1800,2560,Sciliar,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:49:47,Parete Bianca,Hike,,1700,3016,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:50:52,Parete Nera,Hike,,1650,2917,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:51:25,Cima Zermedo,Hike,,1350,2798,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,STANDBY,22/09/2019,1.5,0,Intent
+08/04/2020 21:52:03,La Bianca,Hike,,1800,2822,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:52:35,Monte Tallone Grande,Hike,,1200,2669,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:53:13,Cima dell'Accla,Hike,,1800,3194,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:53:44,Cime Bianche di Telves,Hike,,1350,2588,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:54:07,Croda Sperone,Hike,,1500,2889,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
+08/04/2020 21:54:36,Lasta Alta,Hike,,1100,2546,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+12/04/2020 20:01:57,Via Ferrata Aldo Roghel,Ferrata,3.9,880,2452,Belluno,"Jul, Aug, Sep",Atlante delle Vie ferrate, https://www.sentres.com/it/via-ferrata/via-ferrata-aldo-roghel,FALSE,,4,3,X
+12/04/2020 20:03:40,Via attrezzata Cengia Gabriella,Ferrata,4.2,590,2487,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-attrezzata-cengia-gabriella,FALSE,,1,3,X
+12/04/2020 20:04:49,La Strada degli Alpini,Ferrata,11,490,2685,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/003-la-strada-degli-alpini,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:08:55,Ferrata Croda Rossa,Ferrata,7.4,920,2845,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-croda-rossa-croda-rossa-di-sesto-2936-m,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:10:49,Via Ferrata Mario Zandonella,Ferrata,8.9,910,2835,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-mario-zandonella-croda-rossa-di-sesto-2936-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:13:01,Ferrata delle Scalette,Ferrata,10.9,370,2517,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-delle-scalette-torre-di-toblin-2617-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:15:17,Sentiero attrezzato De Luca-Innerkofler,Ferrata,9.7,380,2609,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-de-luca-innerkofler-monte-paterno-2744-m,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:16:34,Sentiero delle Forcelle,Ferrata,12,520,2653,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-delle-forcelle-monte-paterno-2744-m,FALSE,,2,2,X
+12/04/2020 20:17:54,Via Ferrata Severino Casara,Ferrata,19,1400,2555,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-severino-casara-bivacco-de-toni-piccola-croda-dei-toni-bivacco-de-toni,FALSE,,3,3,X
+12/04/2020 20:21:33,Ferrata Capitano Bilgeri,Ferrata,11.3,900,2303,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-capitano-bilgeri-monte-piano-2305-m,FALSE,,2,2,X
+12/04/2020 20:22:47,Sentiero Bonacossa,Ferrata,7.1,660,2534,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-bonacossa-gruppo-dei-cadini,FALSE,,1,1,X
+12/04/2020 20:23:33,Via Ferrata Merlone,Ferrata,2,380,2725,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-merlone-cima-cadini-nordest-2788-m-gruppo-dei-cadini,FALSE,,2,2,X
+12/04/2020 20:24:35,Via ferrata Rene de Pol,Ferrata,8,890,2370,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-rene-de-pol-forame-de-inze-2385-m-gruppo-del-cristallo,FALSE,,2,2,X
+12/04/2020 20:25:20,Vie Ferrate delle Cascate della Val di Fanes,Ferrata,10.2,460,1746,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/vie-ferrate-delle-cascate-della-val-di-fanes-propaggine-del-gruppo-di-fanes-sul-versante-cortinese,FALSE,,2,1,X
+12/04/2020 20:26:09,Via Ferrata Ettore Bovero,Ferrata,9.3,800,2095,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-ettore-bovero-col-rosa-2166-m,FALSE,,3,2,X
+12/04/2020 20:26:50,Via Ferrata Michielli Strobel,Ferrata,6.3,900,2206,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-michielli-strobel-punta-fiames-2240-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:27:38,Sentiero attrezzato Zumeles,Ferrata,9.6,860,2175,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-zumeles-punta-erbing-2301-m,FALSE,,2,2,X
+12/04/2020 20:28:32,Sentiero Attrezzato Ivano Dibona,Ferrata,18.2,1470,2957,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/018-sentiero-attrezzato-ivano-dibona-cristallino-d-ampezzo-3008-m,FALSE,,2,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:29:23,Via Ferrata Marino Bianchi,Ferrata,1.5,100,3026,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-marino-bianchi-cristallo-di-mezzo-3154-m-gruppo-del-cristallo,FALSE,,3,2,X
+12/04/2020 20:30:08,Via Ferrata Alfonso Vandelli,Ferrata,15.6,770,2310,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-alfonso-vandelli-col-del-fuoco-2360-m-sorapiss,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:30:58,Via ferrata Francesco Berti,Ferrata,11.3,840,2697,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-francesco-berti-sorapiss,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:31:54,Via ferrata Sci Club 18,Ferrata,3.1,630,2128,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-sci-club-18-crep-de-faloria-2123-m,FALSE,,5,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:32:44,Via Ferrata Formenton,Ferrata,4.4,240,3150,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-formenton-tofana-di-dentro-3238-m,FALSE,,2,2,X
+12/04/2020 20:33:36,Via Ferrata Giuseppe Olivieri,Ferrata,5.1,700,2796,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-giuseppe-olivieri-punta-anna-2731-m-e-doss-de-tofana-2840-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:34:17,Sentiero attrezzato Giuseppe Olivieri,Ferrata,2.9,820,3110,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-giuseppe-olivieri-tofana-di-mezzo-stazione-ra-valles-2470-m,FALSE,,2,1,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:35:10,Ferrata Maria e Andrea Ferrari,Ferrata,1,120,2214,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-maria-e-andrea-ferrari-ra-bujela-2260-m,FALSE,,3,1,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:35:52,Via Ferrata Gianni Aglio & Ferrata alla Tofana di Mezzo,Ferrata,3.2,680,3159,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-gianni-aglio-ferrata-alla-tofana-di-mezzo-tofana-di-mezzo-3244-m,FALSE,,4,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:36:46,Sentiero Attrezzato Astaldi,Ferrata,3.3,270,2281,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-astaldi-punta-anna,FALSE,,1,1,X
+12/04/2020 20:37:31,Via Ferrata Giovanni Lipella,Ferrata,10.2,1120,3156,Belluno,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-giovanni-lipella-tofana-di-rozes-3225-m,FALSE,,4,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:38:34,La scala del Meneghel,Ferrata,11.4,890,2566,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/la-scala-del-meneghel-giro-attorno-alla-tofana-di-rozes,FALSE,,2,2,X
+12/04/2020 20:39:19,Via Ferrata Averau,Ferrata,3.8,280,2532,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-averau-averau-2649-m,FALSE,,2,1,X
+12/04/2020 20:40:10,Via Ferrata Ra Gusela,Ferrata,6.6,390,2539,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-ra-gusela-nuvolau-2574-m,FALSE,,1,1,X
+12/04/2020 20:41:19,Via Ferrata degli Alpini,Ferrata,3.7,540,2537,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-degli-alpini-col-dei-bos-2559-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:42:06,Via ferrata Kaiserjager,Ferrata,12.6,880,2606,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-kaiserjaeger-col-ombert-2670-m,FALSE,,1,1,X
+12/04/2020 20:42:53,Via Ferrata Tomaselli,Ferrata,8.4,320,2799,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-tomaselli-cima-fanis-sud-2980-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:43:33,Cengia Veronesi,Ferrata,7.8,350,2834,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/cengia-veronesi-cima-fanis-sud,FALSE,,2,2,X
+12/04/2020 20:46:39,Via ferrata Sasso delle Nove,Ferrata,19.4,1390,2934,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-sasso-delle-nove-sasso-delle-nove-2968-m,FALSE,,2,1,X
+12/04/2020 20:47:51,Sentiero della Pace,Ferrata,20.2,1050,2652,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-della-pace-monte-vallon-bianco-2688-m,FALSE,,1,2,X
+12/04/2020 20:48:39,Ferrata Furcia Rossa,Ferrata,22.1,1090,2754,Val Pusteria,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-furcia-rossa-furcia-rossa-iii-2791-m,FALSE,,2,2,X
+12/04/2020 20:49:25,Tru Dolomieu,Ferrata,18.1,1220,2948,Val Pusteria,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/tru-dolomieu-piz-dles-cunturines-3064-m,FALSE,,1,2,X
+12/04/2020 20:50:14,Sasso di Santa Croce - Sasso delle Dieci,Ferrata,11.1,940,2983,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sasso-di-santa-croce-2907-m-sasso-delle-dieci-3026-m,FALSE,,2,2,X
+12/04/2020 20:51:17,Via Ferrata delle Trincee,Ferrata,5.9,370,2678,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-delle-trincee-sas-de-mezdi-mesola-2727-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:52:09,Via Ferrata Eterna,Ferrata,2.9,910,2894,Val di Fassa,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-eterna-punta-serauta-2962-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:52:57,Ferrata Cresta Ovest,Ferrata,5.5,810,3296,Val di Fassa,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-cresta-ovest-punta-penia-3343-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:53:39,Via Ferrata dei Finanzieri,Ferrata,4.7,520,2671,Val di Fassa,"Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-dei-finanzieri-colac-2715-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:55:05,Sentiero dei Kaiserjäger,Ferrata,5.2,640,2749,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-dei-kaiserjaeger-piccolo-lagazuoi-2778-m,FALSE,,4,2,X
+12/04/2020 20:56:22,Via Ferrata I magnifici 4,Ferrata,5.9,610,2160,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-i-magnifi-ci-4-maerins-quota-darrivo-2213-m,FALSE,,5,2,X
+12/04/2020 20:57:24,Via ferrata Franco Gadotti,Ferrata,8.4,1090,2599,Val di Fassa,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-franco-gadotti-sas-aut-2555-m-gruppo-del-vallaccia,FALSE,,2,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:58:11,Alta via Bepi Zac,Ferrata,6.7,450,2723,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/alta-via-bepi-zac-cima-della-costabella-2762-m,FALSE,,2,1,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 20:59:28,Via Ferrata Paolin Piccolin,Ferrata,9.2,1150,2453,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-paolin-piccolin-cima-dell-auta-orientale-2624-m,FALSE,,2,2,X
+12/04/2020 21:00:29,Via Ferrata Sass da Rocia,Ferrata,0.9,60,1577,Val di Fassa,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-sass-da-rocia-sass-da-rocia-1614-m,FALSE,,2,1,X
+12/04/2020 21:01:50,Via ferrata Cir V,Ferrata,3.4,360,2492,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-cir-v-cima-cir-v-2520-m,FALSE,,3,1,X
+12/04/2020 21:03:02,Via ferrata Gran Cir,Ferrata,2.8,310,2437,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-gran-cir-gran-cir-2592-m,FALSE,,1,1,X
+12/04/2020 21:03:54,Via Normale Sassongher,Ferrata,6.3,670,2521,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-normale-sassongher-sassongher-2665-m,FALSE,,1,1,X
+12/04/2020 21:04:57,Via ferrata Sass-Rigais,Ferrata,10.1,870,2919,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-sass-rigais-passaggio-est-sud,FALSE,,3,3,X
+12/04/2020 21:05:53,Via ferrata in memoriam Gunther Messner,Ferrata,14.7,930,2616,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-in-memoriam-guenther-messner-odle-di-eores,FALSE,,3,2,X
+12/04/2020 21:06:59,Via ferrata Pisciadu,Ferrata,4.1,640,2609,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-pisciadu-rifugio-f-cavazza-al-pisciadu-2585-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:07:46,Ferrata Piz da Lech de Boe,Ferrata,2.7,370,2885,Val Pusteria,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-piz-da-lech-de-boe-piz-da-lech-de-boe-2910-m,FALSE,,3,1,"Also in ""...anello..."" & ""stupende ferrate..."""
+12/04/2020 21:08:38,Via ferrata Vallon,Ferrata,7.3,600,3117,Val Pusteria,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-vallon-piz-boe-3152-m,FALSE,,3,2,X
+12/04/2020 21:09:42,Sentiero attrezzato Lichtenfels,Ferrata,7,600,3117,Val Pusteria,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-lichtenfels-piz-boe-3152-m,FALSE,,1,1,X
+12/04/2020 21:10:41,Via Ferrata Cesare Piazzetta,Ferrata,8.3,920,3117,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-cesare-piazzetta-piz-boe-3152-m,FALSE,,4,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:11:47,Via ferrata delle Meisules,Ferrata,12.7,970,2923,Valle Isarco,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-delle-meisules-piz-selva-2941-m,FALSE,,4,3,"Also in ""...anello..."" & ""stupende ferrate..."""
+12/04/2020 21:12:50,Via ferrata Col Rodella,Ferrata,4.8,260,2441,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-col-rodella-col-rodella-2484-m,FALSE,,3,1,X
+12/04/2020 21:15:50,Via ferrata Oskar Schuster,Ferrata,12.8,1300,2909,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-oskar-schuster-sasso-piatto-2854-m,FALSE,,1,2,X
+12/04/2020 21:16:56,Via ferrata Maximilian,Ferrata,13.3,590,2598,Sciliar,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-maximilian-dente-di-terrarossa-2653-m-cima-di-terrarossa-2655-m,STANDBY,03/08/2019,2,2,X
+12/04/2020 21:17:38,Via ferrata Laurenzi,Ferrata,17.7,1250,2809,Sciliar,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-laurenzi-molignon-di-mezzo-2845-m,FALSE,,4,3,X
+12/04/2020 21:18:26,Traversata del Catinaccio d'Antermoia,Ferrata,11.6,1000,2966,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/traversata-del-catinaccio-d-antermoia-catinaccio-d-antermoia-3002-m,FALSE,,3,2,X
+12/04/2020 21:19:21,Via ferrata Passo Santner,Ferrata,7,780,2704,Sciliar,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-passo-santner-passo-santner-2745-m,FALSE,,2,2,X
+12/04/2020 21:20:08,Traversata della Roda di Vael,Ferrata,6,480,2615,Val di Fassa,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/traversata-della-roda-di-vael-roda-di-vael-2806-m,FALSE,,2,1,"Also in ""...anello..."" & ""stupende ferrate..."""
+12/04/2020 21:20:45,Via ferrata Masare,Ferrata,6.2,380,2517,Val di Fassa,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-masare-cresta-di-masare-2600-m,FALSE,,3,1,X
+12/04/2020 21:21:22,Via Ferrata dei Campanili,Ferrata,11.1,790,2753,Sciliar,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-dei-campanili-latemar-2842-m,FALSE,,3,2,X
+12/04/2020 21:22:08,Sentiero attrezzato Attilio Sieff,Ferrata,4,450,1403,Val di Fiemme,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-attilio-sieff-punta-polse-1450-m,FALSE,,2,1,X
+12/04/2020 21:22:47,Via Ferrata Bolver-Lugli,Ferrata,7.8,980,2934,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-bolver-lugli-bivacco-fiamme-gialle-3005-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:23:31,Sentiero attrezzato N. Gusella e Via Ferrata del Velo,Ferrata,13.8,430,1550,Primiero,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-n-gusella-e-via-ferrata-del-velo-dal-passo-di-ball-al-rifugio-velo-della-madonna,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:24:18,Via Ferrata del Porton,Ferrata,12.3,420,2613,Primiero,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-del-porton-forcella-porton-2460-m,FALSE,,3,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:25:01,Ferrata Dino Buzzati,Ferrata,9.2,1140,2506,Primiero,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-dino-buzzati-cimerlo-2503-m,FALSE,,2,2,"Also in ""...anello..."" & ""stupende ferrate..."""
+12/04/2020 21:25:40,Sentiero del cacciatore,Ferrata,13.9,1300,2503,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-del-cacciatore-cima-stanga-2550-m,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:26:15,Via Ferrata del Canalone,Ferrata,7.1,760,2038,Primiero,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-del-canalone-punta-della-disperazione-1730-m,FALSE,,4,1,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:27:08,Via ferrata Fiamme Gialle,Ferrata,12.8,1470,2748,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-fiamme-gialle-bivacco-reali-2595-m,FALSE,,2,2,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:28:24,Ferrata dell'Orsa,Ferrata,13.9,1600,2506,Belluno,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-dell-orsa-sentiero-del-dottor,FALSE,,3,2,X
+12/04/2020 21:29:01,Ferrata Stella Alpina,Ferrata,9.4,1490,2658,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-stella-alpina-monte-agner-2872m,FALSE,,4,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:30:10,Ferrata degli Alleghesi,Ferrata,18.5,1820,3177,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-degli-alleghesi-monte-civetta-3220-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:30:59,Ferrata Attilio Tissi,Ferrata,10.8,1290,2937,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-attilio-tissi-monte-civetta-3220-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:32:04,Via Ferrata Gianni Costantini,Ferrata,11,1260,2817,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-gianni-costantini-cima-moiazza-sud-2878-m,FALSE,,5,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:33:36,Via Ferrata Fiamme al Monte Pelsa,Ferrata,6.2,1230,2194,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-fiamme-al-monte-pelsa-la-palazza-alta-2255-m,FALSE,,4,2,X
+12/04/2020 21:34:30,Ferrata Gianangelo Sperti,Ferrata,17.1,1890,2357,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-gianangelo-sperti-monte-schiara-2565-m,FALSE,,3,3,X
+12/04/2020 21:35:10,Ferrata L. Zacchi,Ferrata,15.4,1910,2373,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-l-zacchi-bivacco-bernardina-2320-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:35:53,Ferrata Piero Rossi,Ferrata,17.1,2060,2530,Belluno,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-piero-rossi-monte-schiara-2565-m,FALSE,,2,3,X
+12/04/2020 21:36:35,Ferrata A. Berti,Ferrata,15.9,1890,2364,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-a-berti-monte-schiara-2565-m,FALSE,,3,3,"Also in ""Stupende ferrate delle Dolomiti"""
+12/04/2020 21:37:17,Sentiero alpinistico M. Guardiano,Ferrata,17.6,1970,2460,Belluno,"May, Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-alpinistico-m-guardiano-monte-pelf-2505-m,FALSE,,2,3,X
+12/04/2020 21:38:26,Via ferrata della Tabaretta,Ferrata,9.6,770,2995,Val Venosta,"Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-della-tabaretta-punta-tabaretta-sull-ortles-3050-m,FALSE,,5,3,X
+12/04/2020 21:39:31,Via Ferrata Hoachwool,Ferrata,3.3,760,1286,Merano,"Apr, May, Jun, Sep, Oct, Nov",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-hoachwool-naturno-stazione-a-monte-della-funivia-unterstell-1300-m,FALSE,,5,2,X
+12/04/2020 21:40:25,"Via ferrata ""Heini Holzer""",Ferrata,6.3,660,2528,Merano,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-heini-holzer-piccolo-ivigna-2552-m,FALSE,,3,2,X
+12/04/2020 21:41:17,Ferrata di Valdaora,Ferrata,9.1,1000,2508,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-di-valdaora-cima-dei-colli-alti-2542-m,FALSE,,1,2,X
+12/04/2020 21:43:06,Ferrata di Favogna,Ferrata,12.7,970,1149,Oltradige,"Mar, Apr, May, Sep, Oct, Nov",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-di-favogna-favogna-di-sotto-1047-m,STANDBY,30/04/2018,1,2,X
+12/04/2020 21:45:28,Sentiero attrezzato Burrone-Giovanelli,Ferrata,8.5,700,939,Val d'Adige,"Mar, Apr, May, Jun, Sep, Oct, Nov",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-attrezzato-burrone-giovanelli-monte-891-m,STANDBY,19/08/2018,1,1,X
+12/04/2020 21:47:15,Via Ferrata Rio Secco,Ferrata,2.2,390,611,Val d'Adige,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-rio-secco-dosson-625-m,TRUE,30/07/2019,3,1,X
+12/04/2020 21:48:17,Via Ferrata delle Aquile,Ferrata,3.1,350,2104,Val d'Adige,"Apr, May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-delle-aquile-la-paganella-2124-m,FALSE,,3,1,X
+12/04/2020 21:48:58,Via attrezzata Rino Pisetta,Ferrata,4.9,620,938,Val d'Adige,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-attrezzata-rino-pisetta-cima-garzolet-967-m,FALSE,,5,2,X
+12/04/2020 21:49:41,Via Ferrata Ernesto Che Guevara,Ferrata,12.4,1370,1621,Garda e Ledro,"Jan, Feb, Mar, Apr, May, Jun, Sep, Oct, Nov, Dec",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-ernesto-che-guevara,FALSE,,2,2,X
+12/04/2020 21:50:18,Via Ferrata Artpinistico delle Niere,Ferrata,1,160,778,Giudicarie,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/via-ferrata-artpinistico-delle-niere,FALSE,,2,1,X
+12/04/2020 21:51:06,Ferrata delle Sasse,Ferrata,4.7,210,562,Garda e Ledro,"Apr, May, Jun, Sep, Oct, Nov",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-delle-sasse,FALSE,,1,1,X
+12/04/2020 21:51:47,Ferrata delle Taccole,Ferrata,8.6,870,2141,Garda e Ledro,"Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-delle-taccole,FALSE,,2,3,X
+12/04/2020 21:52:29,Ferrata Giordano Bertotti,Ferrata,4.3,520,1308,Valsugana,"Jun, Jul, Aug, Sep",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-giordano-bertotti-croce-di-chegul-1263-m,FALSE,,1,1,X
+12/04/2020 21:53:09,Ferrata Gerardo Sega,Ferrata,7.8,460,1194,Garda e Ledro,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/ferrata-gerardo-sega,FALSE,,2,2,X
+12/04/2020 21:55:28,Sentiero Gustavo Vidi,Ferrata,4.4,180,2626,Giudicarie,"May, Jun, Jul, Aug, Sep, Oct",Atlante delle Vie ferrate,https://www.sentres.com/it/via-ferrata/sentiero-gustavo-vidi-punto-piu-elevato-2680-m-a-sud-della-cima-pietra-grande,FALSE,,1,2,X
+12/04/2020 22:23:37,Ferrata Sandro Pertini,Ferrata,,700,2312,Valle Isarco,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,http://www.veramontagna.it/Trentino/Trentino-esperienze-vere/Via-Ferrata-Sandro-Pertini-al-Monte-Stevia-Smantellata-a-fine-2014,FALSE,,4,0,X
+12/04/2020 22:25:56,Ferrata Masare e Roda di Vael,Ferrata,,850,2806,Val di Fassa,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""...anello..."" & ""atlante..."""
+12/04/2020 22:27:57,Ferrata Brigata Tridentina,Ferrata,,620,2585,Val Pusteria,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,https://www.ferrate365.it/vie-ferrate/ferrata-tridentina-pisciadu-sella/,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:28:53,Ferrata delle Meisules,Ferrata,,1000,2941,Valle Isarco,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""...anello..."" & ""atlante..."""
+12/04/2020 22:29:52,Ferrata Cesare Piazzetta,Ferrata,,900,3152,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:30:47,Ferrata Piz da Lech de Boe,Ferrata,,420,2913,Val Pusteria,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""...anello..."" & ""atlante..."""
+12/04/2020 22:32:26,Ferrata delle Trincee,Ferrata,,740,2727,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:33:23,Cresta Ovest della Marmolada,Ferrata,,1030,3343,Val di Fassa,"Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:34:13,Via Eterna Ferrata Brigata Cadore,Ferrata,,1050,2962,Val di Fassa,"Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:35:03,Ferrata dei Finanzieri,Ferrata,,700,2715,Val di Fassa,"Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,4,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:35:58,Ferrata Franco Gadotti,Ferrata,,1050,2637,Val di Fassa,"Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:36:54,Alta Via Attrezzata Bepi Zac,Ferrata,,1320,2765,Val di Fassa,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:37:35,Ferrata Bolver-Lugli,Ferrata,,1160,3005,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:38:16,Ferrata del Porton,Ferrata,,1430,2460,Primiero,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:39:03,Ferrata del Velo,Ferrata,,1430,2550,Primiero,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:39:43,Sentiero Dino Buzzati,Ferrata,,1430,2460,Primiero,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""...anello..."" & ""atlante..."""
+12/04/2020 22:40:42,Sentiero Nico Gusela,Ferrata,,1650,2680,Primiero,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:42:00,Sentiero del Cacciatore,Ferrata,,1460,2550,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:44:25,Sentiero Camillo Depaoli,Ferrata,,1500,2680,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,X
+12/04/2020 22:45:20,Ferrata Stella Alpina,Ferrata,,1170,2872,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:45:58,Sentiero del Canalone,Ferrata,,1720,2872,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,X
+12/04/2020 22:47:43,Ferrata Cesco Tomaselli,Ferrata,,940,2980,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:50:03,Ferrata della Piramide,Ferrata,,500,2559,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:50:58,Ferrata Giovanni Lipella,Ferrata,,1400,3225,Belluno,"Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:51:58,Ferrata Giuseppe Olivieri,Ferrata,,1240,2731,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:52:55,Ferrata Gianni Aglio,Ferrata,,1240,3244,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,5,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:53:16,Ferrata Tofana di Mezzo,Ferrata,,1240,3244,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:54:04,Sentiero Giuseppe Olivieri,Ferrata,,1240,3244,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:55:29,Ferrata Albino Michielli Strobel,Ferrata,,950,2240,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:56:20,Sentiero Ferrato Ivano Dibona,Ferrata,,1750,3008,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:57:31,Ferrate della Torre di Toblin,Ferrata,,1730,2617,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:58:10,Ferrata de Luca-Innerkofler,Ferrata,,1730,2744,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate"""
+12/04/2020 22:59:20,Strada degli Alpini,Ferrata,,950,2640,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2.5,0,"Also in ""Atlante delle Vie ferrate"""
+13/04/2020 13:24:01,Ferrata alla Croda Rossa di Sesto,Ferrata,,1400,2936,Val Pusteria,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,2,0,"Also in ""Atlante delle Vie ferrate"""
+13/04/2020 13:24:36,Ferrata Mario Zandonella,Ferrata,,1400,2936,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,4,0,"Also in ""Atlante delle Vie ferrate"""
+13/04/2020 13:25:48,Ferrata Aldo Roghel,Ferrata,,1420,2560,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Atlante delle Vie ferrate"""
+13/04/2020 13:26:48,Ferrata Cengia Gabriella,Ferrata,,1420,2560,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Atlante delle Vie ferrate"""
+13/04/2020 13:27:48,Via Ferrata Sci Club 18,Ferrata,,640,2123,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Atlante delle Vie ferrate"""
+13/04/2020 13:29:06,Ferrata Alfonso Vandelli,Ferrata,,1760,2670,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2.3,0,"Also in ""Atlante delle Vie ferrate"""
+13/04/2020 13:30:24,Sentiero Attrezzato Carlo Minazio,Ferrata,,1760,2670,Belluno,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,2,0,X
+13/04/2020 13:31:03,Percorso Ferrato Francesco Berti,Ferrata,,1760,2670,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Stupende ferrate delle Dolomiti"""
+13/04/2020 13:32:14,Ferrata Fiamme Gialle,Ferrata,,1480,2255,Primiero,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Stupende ferrate delle Dolomiti"""
+13/04/2020 13:33:14,Ferrata degli Alleghesi,Ferrata,,1600,3220,Belluno,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Stupende ferrate delle Dolomiti"""
+13/04/2020 13:33:55,Ferrata Attilio Tissi,Ferrata,,1600,3220,Belluno,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,4.5,0,"Also in ""Stupende ferrate delle Dolomiti"""
+13/04/2020 13:34:53,Ferrata Gianni Costantini,Ferrata,,1400,2878,Belluno,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,6,0,"Also in ""Stupende ferrate delle Dolomiti"""
+13/04/2020 13:35:54,Ferrata Zacchi,Ferrata,,2150,2565,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Stupende ferrate delle Dolomiti"""
+13/04/2020 13:36:33,Ferrata Berti,Ferrata,,2150,2565,Belluno,"May, Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""Stupende ferrate delle Dolomiti"""
+13/04/2020 13:37:23,Ferrata Marmol,Ferrata,,2150,2565,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,X
+13/04/2020 13:38:30,Ferrata Laserz,Ferrata,,1000,2568,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,https://www.tirolo.tl/it/sport-e-tempo-libero/scalate-e-arrampicate/via-ferrata-laserz/,FALSE,,4.5,0,X
+13/04/2020 13:40:24,Ferrata dei Cinquanta,Ferrata,,1350,2458,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,https://www.ferrate365.it/vie-ferrate/ferrata-cinquanta-del-clap-creton-culzei/,FALSE,,4,0,X
+13/04/2020 13:41:20,Vie delle Bocchette,Ferrata,,1200,3020,Giudicarie,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,"Also in ""... anello..."""
+13/04/2020 13:43:16,Sentiero Alpinistico Angelo Pojesi,Ferrata,,1150,2259,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,https://www.ferrate365.it/vie-ferrate/sentiero-attrezzato-angelo-pojesi-carega/,FALSE,,2,0,X
+13/04/2020 13:43:35,Ferrata Carlo Campalani,Ferrata,,1150,2259,Belluno,"Jun, Jul, Aug, Sep",Stupende ferrate delle Dolomiti,,FALSE,,3,0,X
+13/04/2020 13:44:58,Ferrata Clap Varmost,Ferrata,,310,1751,Belluno,"May, Jun, Jul, Aug, Sep, Oct",Stupende ferrate delle Dolomiti,https://www.for-adventure.it/adventure-climb-varmost-ferrata-sportiva.html,FALSE,,4,0,X
+13/04/2020 23:30:23,Sul Pasubio,Bike,34.1,1280,2203,Vallagarina,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/sul-pasubio,FALSE,,3,0,X
+13/04/2020 23:32:54,L'Altopiano di Folgaria,Bike,41.2,940,1781,Valsugana,"Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/l-altopiano-di-folgaria,FALSE,,2,0,X
+13/04/2020 23:34:05,Sul Sentiero della pace di Lavarone,Bike,36.4,1200,1488,Valsugana,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/sul-sentiero-della-pace-di-lavarone,FALSE,,3,0,X
+13/04/2020 23:35:17,L'Alta Val di Non e il Macaion,Bike,34.5,1070,1854,Val di Non,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/l-alta-val-di-non-e-il-macaion,FALSE,,3,0,X
+13/04/2020 23:36:43,Le malghe di Val delle Stue,Bike,29.1,1230,2033,Val di Fiemme,"Apr, May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/le-malghe-di-val-delle-stue,FALSE,,3,0,X
+13/04/2020 23:37:58,Al pian del Maseron in Val Sadole,Bike,27,1350,1847,Val di Fiemme,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/al-pian-del-maseron-in-val-sadole,FALSE,,3,0,X
+13/04/2020 23:39:08,Col Margherita,Bike,34.3,1430,2505,Val di Fassa,"May, Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/col-margherita,FALSE,,3,0,X
+13/04/2020 23:40:23,Al Passo San Nicolo,Bike,30.2,1060,2364,Val di Fassa,"Apr, May, Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/al-passo-san-nicolo,FALSE,,3,0,X
+13/04/2020 23:45:06,La Forra del Bletterbach,Bike,38.4,1180,1893,Oltradige,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/la-forra-del-bletterbach,FALSE,,3,0,X
+13/04/2020 23:47:09,Sulla Cima degli Stoanerne Mandln,Bike,28.1,760,1785,Sciliar,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/sulla-cima-degli-stoanerne-mandln,FALSE,,2,0,X
+13/04/2020 23:48:51,La Valdurna,Bike,38.6,1290,1795,Sciliar,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/la-valdurna,FALSE,,3,0,X
+13/04/2020 23:50:08,I laghi e le malghe di Fie,Bike,25.4,910,1395,Sciliar,"Apr, May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/i-laghi-e-le-malghe-di-fie,FALSE,,3,0,X
+13/04/2020 23:52:00,Le Alpi Mastle e Cisles,Bike,28,1280,2406,Valle Isarco,"May, Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/le-alpi-mastle-e-cisles,FALSE,,3,0,X
+13/04/2020 23:53:23,Intorno al Sass de Putia,Bike,35.3,1200,2344,Valle Isarco,"May, Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/intorno-al-sass-de-putia,FALSE,,3,0,X
+13/04/2020 23:54:53,Il giro dei Colli Alti,Bike,49.2,1640,2280,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/il-giro-dei-colli-alti,FALSE,,3,0,X
+13/04/2020 23:56:34,La Malga Waldner in Valle Aurina,Bike,23.7,950,2148,Val Pusteria,"May, Jun, Jul, Aug, Sep, Oct",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/la-malga-waldner-in-valle-aurina,FALSE,,2,0,X
+13/04/2020 23:58:14,La Val di Fosse,Bike,23.7,1030,2210,Merano,"Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/la-val-di-fosse,FALSE,,3,0,X
+13/04/2020 23:59:42,Il Sentiero delle Malghe di Stelvio,Bike,40.3,1510,2265,Val Venosta,"Jun, Jul, Aug, Sep",Mountain Bike in Trentino-Alto Adige,https://www.sentres.com/it/sentieri-mountain-bike/il-sentiero-delle-malghe-di-stelvio,FALSE,,3,0,X
+14/04/2020 0:11:47,Pista ciclabile della Valsugana,Bike,81.7,170,488,Valsugana,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",X,https://www.sentres.com/it/bici/pista-ciclabile-della-valsugana,FALSE,,2,0,X
+14/04/2020 0:13:33,Pista ciclabile della Val di Non,Bike,20.5,300,1052,Val di Non,"Apr, May, Jun, Jul, Aug, Sep",X,https://www.sentres.com/it/bici/pista-ciclabile-della-val-di-non,FALSE,,1,0,X
+14/04/2020 0:15:30,Ciclabile Fassa-Fiemme,Bike,44.6,20,1442,Val di Fassa,"May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/ciclabile-fassa-fiemme,TRUE,26/08/2019,1,0,X
+14/04/2020 0:16:26,Giro dei laghi in Trentino,Bike,24.5,160,558,Valsugana,"Apr, May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/giro-dei-laghi-in-trentino,FALSE,,1,0,X
+14/04/2020 0:17:22,Il giro dei Laghi di Levico e Caldonazzo,Bike,23.9,160,558,Valsugana,"Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",X,https://www.sentres.com/it/sentieri-mountain-bike/valsugana-e-lagorai-il-giro-dei-laghi-di-levico-e-caldonazzo,FALSE,,1,0,X
+14/04/2020 0:19:05,Lungo la Via del Brenta,Bike,80.6,360,482,Valsugana,"Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",X,https://www.sentres.com/it/sentieri-mountain-bike/lungo-la-via-del-brenta,FALSE,,2,0,X
+14/04/2020 0:32:20,Ciclabile della Val Venosta,Bike,75.9,180,1550,Val Venosta,"May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/bici/la-pista-ciclabile-della-val-venosta,FALSE,,1,0,X
+14/04/2020 0:33:30,Ciclabile Merano-Bolzano,Bike,34.6,30,318,Merano,"Apr, May, Jun, Sep, Oct, Nov",X,https://www.sentres.com/it/bici/da-merano-fino-a-bolzano,FALSE,,1,0,X
+14/04/2020 0:34:25,Ciclabile Bassa Atesina,Bike,68.3,130,271,Oltradige,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",X,https://www.sentres.com/it/bici-da-corsa/pista-ciclabile-bassa-atesina,FALSE,,1,0,X
+14/04/2020 0:35:50,Ciclabile Bressanone - Bolzano,Bike,41.6,110,565,Valle Isarco,"Apr, May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/pista-ciclabile-bressanone-bolzano,FALSE,,1,0,X
+14/04/2020 0:37:17,Lungo Isarco fino a Bressanone,Bike,25,40,568,Valle Isarco,"Apr, May, Jun, Sep, Oct",x,https://www.sentres.com/it/bici/lungo-l-isarco-fino-a-bressanone,FALSE,,2,0,X
+14/04/2020 0:38:23,Ciclabile Vipiteno-Bressanone,Bike,32.7,190,986,Valle Isarco,"Apr, May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/pista-ciclabile-vipiteno-bressanone,FALSE,,2,0,X
+14/04/2020 0:39:33,Tour del fiume Aurino,Bike,31.4,110,1673,Val Pusteria,"May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/tour-del-fiume-aurino,FALSE,,2,0,X
+14/04/2020 0:40:53,Ciclabile in Valle di Tures,Bike,24.4,50,883,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/bici/ciclabile-per-famiglie-in-valle-di-tures,FALSE,,2,0,X
+14/04/2020 0:42:01,Pista ciclabile della Drava,Bike,53.9,200,1211,Val Pusteria,"Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/bici/pista-ciclabile-della-drava,FALSE,,1,0,X
+23/04/2020 16:11:37,Cima Bassa dAmbiez,Hike,,1445,3017,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=1&c=all,FALSE,,2,2,X
+24/04/2020 16:58:49,Cima Ambiez,Alpinismo,,1275,3095,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=2&c=all,FALSE,,3,2.6,X
+24/04/2020 17:00:17,Cima Garbari,Ferrata,,1200,3018,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=3&c=all,FALSE,,2.3,2,X
+24/04/2020 17:03:30,Cima Tosa Via Migotti,Alpinismo,,1316,3136,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=4&c=all,FALSE,,2,1.6,X
+24/04/2020 17:04:27,Cima Tosa Via del camino,Alpinismo,,1623,3136,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=4&c=all,FALSE,,2.3,2,X
+24/04/2020 17:05:29,Crozzon di Brenta,Alpinismo,,1850,3135,Giudicarie,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=5&c=all,FALSE,,3,3,X
+24/04/2020 17:06:37,Cima Mandron,Hike,,1527,3039,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=6&c=all,FALSE,,2,2,X
+24/04/2020 17:07:41,Torre Kiene XIII,Hike,,1600,3026,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=7&c=all,FALSE,,2.3,2,X
+24/04/2020 17:08:22,Torre Kiene XV,Hike,,1600,3030,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=8&c=all,FALSE,,2.3,2,X
+24/04/2020 17:09:19,Cima Brenta Ovest,Alpinismo,,1600,3112,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=9&c=all,FALSE,,2.3,2,X
+24/04/2020 17:10:06,Cima Brenta,Alpinismo,,1637,3151,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=10&c=all,FALSE,,2.3,2,X
+24/04/2020 17:11:03,Cima Vallesinella,Alpinismo,,1600,3114,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=11&c=all,FALSE,,2,2,X
+24/04/2020 17:12:00,Spallone dei MassodI,Ferrata,,1490,3004,Giudicarie,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=12&c=all,FALSE,,1,1.3,X
+24/04/2020 17:12:58,Torre di Brenta,Alpinismo,,1500,3014,Giudicarie,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=13&c=all,FALSE,,3,2.6,X
+24/04/2020 17:14:44,Catinaccio Antermoia,Ferrata,,1055,3004,Val di Fassa,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=14&c=all,FALSE,,1.3,1.3,X
+24/04/2020 17:17:37,Sassolungo,Alpinismo,,1800,3181,Valle Isarco,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=19,FALSE,,3.3,3.3,X
+24/04/2020 17:19:46,Gran Campanile del Sassolungo,Alpinismo,,400,3077,Valle Isarco,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=18,FALSE,,2.3,2.6,X
+24/04/2020 17:20:44,Spallone del Sassolungo,Alpinismo,,400,3081,Valle Isarco,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=20,FALSE,,3,2.6,X
+24/04/2020 17:22:04,Punta Grohmann,Alpinismo,,950,3126,Valle Isarco,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=21,FALSE,,4,3.3,X
+24/04/2020 17:23:56,Torre Innerkofler,Alpinismo,,1165,3098,Valle Isarco,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=22,FALSE,,3,2.3,X
+24/04/2020 17:25:10,Dente del Sassolungo,Alpinismo,,1180,3001,Valle Isarco,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=23,FALSE,,3,2.3,X
+24/04/2020 17:27:04,Sass Rigais,Ferrata,,920,3025,Valle Isarco,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=15&c=all,FALSE,,1.3,1.3,X
+24/04/2020 17:28:14,Gran Furchetta,Alpinismo,,925,3030,Valle Isarco,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=16&c=all,FALSE,,2.6,2.3,X
+24/04/2020 17:29:11,Piccola Furchetta,Alpinismo,,900,3010,Valle Isarco,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=17&c=all,FALSE,,2.6,2.3,X
+24/04/2020 17:32:13,Piz Boe,Ferrata,,915,3152,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=24,STANDBY,31/08/2019,1,1,X
+24/04/2020 17:33:23,Cresta Strenta,Ferrata,,885,3124,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=25,FALSE,,1,1,X
+24/04/2020 17:34:25,Piz da Lec Dlace,Ferrata,,780,3009,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=26,FALSE,,1,1,X
+24/04/2020 17:35:22,Tofana di Dentro,Ferrata,,1563,3238,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=27,FALSE,,1.3,1.3,X
+24/04/2020 17:36:03,Tofana di Mezzo,Ferrata,,1164,3244,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=28,FALSE,,1.3,1.3,X
+24/04/2020 17:36:50,Tofana di Rozes,Hike,,1145,3225,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=29,FALSE,,1,1.3,X
+24/04/2020 17:38:01,Sasso delle Dieci,Ferrata,,1660,3026,Val Pusteria,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=30,FALSE,,2,1.6,X
+24/04/2020 18:00:36,Piz Lavarela,Hike,,1360,3055,Val Pusteria,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=31,FALSE,,1,1,X
+24/04/2020 18:01:19,Piz Lavarela Sud Ovest ,Hike,,1360,3034,Val Pusteria,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=32,FALSE,,1,1,X
+24/04/2020 18:02:13,Piz Conturines,Ferrata,,1340,3064,Val Pusteria,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=33,FALSE,,1,1,X
+24/04/2020 18:02:51,Piz Conturines Nord Est,Ferrata,,1340,3012,Val Pusteria,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=34,FALSE,,1,1,X
+24/04/2020 18:03:51,Crodaccia Alta Versante Ovest,Alpinismo,,1347,3015,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=35,FALSE,,1.3,1.3,X
+24/04/2020 18:05:47,Croda Rossa Ampezzo Nord Ovest,Alpinismo,,1930,3146,Belluno,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=36,FALSE,,2.3,3,X
+24/04/2020 18:04:55,Crodaccia Alta Versante Nord,Alpinismo,,1024,3015,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=35,FALSE,,1.3,1.3,X
+24/04/2020 18:07:34,Croda Rossa Ampezzo Sud Ovest,Alpinismo,,2080,3146,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=36,FALSE,,2.3,2.6,X
+24/04/2020 18:08:28,Croda Rossa Ampezzo Via Innerkofler,Alpinismo,,1655,3146,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=36,FALSE,,3.6,3.3,X
+24/04/2020 18:09:57,Punta dei Tre Scarperi,Alpinismo,,2210,3145,Val Pusteria,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=37,FALSE,,3.3,3,X
+24/04/2020 18:10:44,Punta Piccola dei Tre Scarperi,Alpinismo,,1600,3095,Val Pusteria,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=38,FALSE,,2,2,X
+24/04/2020 18:11:35,Cima Undici Nord,Alpinismo,,1515,3081,Val Pusteria,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=39,FALSE,,2,2,X
+24/04/2020 18:12:27,Cima Undici Sud,Alpinismo,,1650,3092,Val Pusteria,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=40,FALSE,,3.3,3,X
+24/04/2020 18:13:17,Monte Popera,Hike,,1590,3046,Val Pusteria,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=41,FALSE,,1,1,X
+24/04/2020 18:14:17,Croda dei Toni,Alpinismo,,1640,3094,Val Pusteria,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=42,FALSE,,3.3,3.3,X
+24/04/2020 18:15:16,Croda Antonio Berti,Alpinismo,,1570,3029,Val Pusteria,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=43,FALSE,,3.3,3.3,X
+24/04/2020 18:18:26,Cristallino Ampezzo,Ferrata,,180,3008,Belluno,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=44,FALSE,,1,1,X
+24/04/2020 18:19:31,Cristallo di Mezzo,Ferrata,,280,3154,Belluno,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=45,FALSE,,2,1.6,X
+24/04/2020 18:21:30,Piz Popena,Alpinismo,,1400,3152,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=47,FALSE,,2.3,2.3,X
+24/04/2020 18:20:34,Monte Cristallo,Alpinismo,,1410,3221,Belluno,"Jun, Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=46,FALSE,,3,2.3,X
+24/04/2020 18:22:27,Croda Marcora,Alpinismo,,1574,3154,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=48,FALSE,,3,2.3,X
+24/04/2020 18:23:17,Fopa di Matia,Alpinismo,,1350,3155,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=49,FALSE,,2,2,X
+24/04/2020 18:24:28,Punta Sorapis,Alpinismo,,1625,3205,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=50,FALSE,,3,2.3,X
+24/04/2020 18:25:16,Cima de Falkner,Alpinismo,,1250,3053,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=51,FALSE,,4,3.3,X
+24/04/2020 18:26:06,Monti della Caccia Grande,Hike,,1425,3004,Belluno,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=52,FALSE,,2.3,2.3,X
+24/04/2020 18:26:46,Tre Sorelle,Hike,,1425,3005,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=53,FALSE,,1.3,1.3,X
+24/04/2020 18:36:38,Antelao,Hike,,1685,3264,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=54,FALSE,,2,2,X
+24/04/2020 18:37:43,Punta Menini,Alpinismo,,1600,3177,Belluno,"Apr, May",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=55,FALSE,,3,3,X
+24/04/2020 18:38:44,Punta Chiggiato,Alpinismo,,1580,3163,Belluno,"Jun, Jul",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=56,FALSE,,3,3.3,X
+24/04/2020 18:40:42,Cima Fanton,Alpinismo,,1345,3142,Belluno,"May, Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=57,FALSE,,3,2.6,X
+24/04/2020 18:41:50,Monte Pelmo,Alpinismo,,1700,3168,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=58,FALSE,,2,2,X
+24/04/2020 18:48:02,Cima de Toni,Alpinismo,,1905,3040,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=59,FALSE,,3,3,X
+24/04/2020 18:49:34,Piccola Civetta,Alpinismo,,1800,3207,Belluno,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=60,FALSE,,2,2,X
+24/04/2020 18:50:34,Monte Civetta,Ferrata,,1815,3220,Belluno,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=61,FALSE,,2.3,1.6,X
+24/04/2020 18:51:27,Cima di Tome,Ferrata,,1550,3004,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=62,FALSE,,1.6,1.3,X
+24/04/2020 18:53:38,Punta Cornates,Alpinismo,,1545,3029,Val di Fassa,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=63,FALSE,,2.5,2.6,X
+24/04/2020 18:54:49,Gran Vernel,Alpinismo,,1140,3210,Val di Fassa,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=64,FALSE,,3,2.6,X
+24/04/2020 18:56:05,Piccolo Vernel,Alpinismo,,1075,3098,Val di Fassa,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=65,FALSE,,1.6,1.3,X
+24/04/2020 18:57:14,Punta Penia,Alpinismo,,700,3343,Val di Fassa,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=66,FALSE,,1.6,1.6,X
+24/04/2020 18:58:26,Pilastro Nino,Alpinismo,,574,3200,Val di Fassa,Jul,3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=67,FALSE,,3,2.6,X
+24/04/2020 19:00:58,Punta Rocca,Alpinismo,,680,3309,Val di Fassa,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=68,FALSE,,1.6,1.6,X
+24/04/2020 19:01:51,Punta Ombretta,Alpinismo,,620,3247,Val di Fassa,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=69,FALSE,,3,2.6,X
+24/04/2020 19:04:03,Monte Serauta,Alpinismo,,1012,3069,Val di Fassa,"Jun, Jul, Aug, Sep, Oct, Nov",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=70,FALSE,,1,1,X
+24/04/2020 19:05:19,Piz Serauta,Alpinismo,,560,3035,Val di Fassa,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=71,FALSE,,3.8,3.3,X
+24/04/2020 19:06:26,Cima Ombretta Est,Hike,,1560,3011,Val di Fassa,"Jun, Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=72,FALSE,,1,1,X
+24/04/2020 19:07:23,Sasso Vernale,Hike,,1610,3058,Val di Fassa,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=73,FALSE,,1.3,1.3,X
+24/04/2020 19:08:19,Sasso di Valfredda,Alpinismo,,1160,3009,Val di Fassa,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=74,FALSE,,2,1.6,X
+24/04/2020 19:09:12,Cima dell Uomo,Alpinismo,,1060,3010,Val di Fassa,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=75,FALSE,,2,1.6,X
+24/04/2020 19:10:55,Cimon de la Pala,Alpinismo,,1250,3184,Primiero,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=76,FALSE,,3.3,3,X
+24/04/2020 19:12:01,Il Nuvolo,Ferrata,,1140,,Primiero,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=77,FALSE,,1,1,X
+24/04/2020 19:13:20,Cima della Vezzana,Ferrata,,1540,3192,Primiero,"Jun, Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=78,FALSE,,1,1,X
+24/04/2020 19:14:14,Campanile di Val Strut,Alpinismo,,1100,3049,Primiero,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=79,FALSE,,2.3,2,X
+24/04/2020 19:18:08,Le Zirocole,Ferrata,,1285,3058,Primiero,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=81,FALSE,,1.6,1.3,X
+24/04/2020 19:19:13,Cima di Valgrande,Alpinismo,,1290,3038,Primiero,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=82,FALSE,,3,2.6,X
+24/04/2020 19:20:18,Anticima di Valgrande,Ferrata,,1250,3028,Primiero,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=83,FALSE,,1.6,1.3,X
+24/04/2020 19:21:22,Cima del Focobon,Alpinismo,,1280,3054,Primiero,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=84,FALSE,,3,2.6,X
+24/04/2020 19:22:12,Torre del Focobon,Alpinismo,,1670,3030,Primiero,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=85,FALSE,,3,2.6,X
+24/04/2020 19:23:12,Cima di Campido,Hike,,1620,3001,Primiero,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-3000-dolomiti.asp?idc=86,FALSE,,1.3,1.3,X
+24/04/2020 19:27:01,Punta delle Cinque Dita,Alpinismo,,300,2999,Valle Isarco,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=2,FALSE,,3.5,3,X
+24/04/2020 19:28:47,Sas dai Ciamorces,Hike,,130,2999,Val di Fassa,"Jul, Aug, Sep",3000 delle Dolomiti,,FALSE,,1,1,X
+24/04/2020 19:29:45,Cresta Zsigmondy,Alpinismo,,1550,2998,Belluno,"Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=4,FALSE,,2.3,1.6,X
+24/04/2020 19:30:47,Cima Grande di Lavaredo,Alpinismo,,1300,2999,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=5,FALSE,,3.6,3,X
+24/04/2020 19:31:34,Terza Sorella,Hike,,1420,2999,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=6,FALSE,,1.3,1.3,X
+24/04/2020 19:32:19,Cima Paolina,Alpinismo,,1865,2998,Belluno,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=7,FALSE,,3,2.6,X
+24/04/2020 19:33:25,Cima Ombretta Ovest,Alpinismo,,1540,2998,Val di Fassa,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=8,FALSE,,2.3,2.3,X
