@@ -25,7 +25,7 @@ ui <- navbarPage(
                choices = c("All",
                            unique(as.character(data$Type)))
              )),
-      column(4,
+      column(3,
              selectInput(
                inputId = "region",
                label = "Region:",
@@ -45,12 +45,15 @@ ui <- navbarPage(
                            "May", "June", "July", "August",
                            "September", "October", "November", "December"
                            ))),
-      column(2,
+      column(1,
              checkboxGroupInput(
                inputId = "checkbox",
                label = "Done",
                choices = list("yes" = 1, "no" = 0, "standby" = 2),
-               selected = c(0,1,2)))
+               selected = c(0,1,2))),
+      
+      column(2,
+             textInput("text", label = "Search", value = ""))
     ),
     
     fluidRow(
@@ -121,6 +124,9 @@ server <- function(input, output){
   
   datax <- reactive({
     data <- read.csv("muntanya.csv")[,-1]
+    if(length(input$text)){
+      data <- data[grep(tolower(input$text), tolower(data$Destination)), ]
+    }
     if(length(input$checkbox) == 1 & input$checkbox == 0){
       data <- data[data$Done == "FALSE", ]
     } else if(length(input$checkbox) == 1 & input$checkbox == 1){
@@ -165,7 +171,7 @@ server <- function(input, output){
   output$table <- DT::renderDataTable(
     DT::datatable({
       datax()[,-c(7:ncol(datax()))]
-    }, options = list(pageLength = nrow(datax()), dom = 'Bfrtip'
+    }, options = list(pageLength = nrow(datax()), dom = "t" #dom = 'Bfrtip'
                       ), rownames= FALSE)
   )
   
