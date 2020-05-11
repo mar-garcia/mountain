@@ -66,7 +66,7 @@ Marca de temps,Destination,Type,Distance,Denivell,Altitude,Region,Gruppo,Period 
 08/04/2020 0:14:27,Pala della Madonna,Hike,12,1357,2244,Primiero,Pale di San Martino,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
 08/04/2020 0:15:05,Cima d'Oltro,Hike,10.3,1194,2229,Primiero,Pale di San Martino,"Jul, Aug, Sep, Oct",Escursioni ad anello nelle Dolomiti Occidentali,,FALSE,,2,0,X
 08/04/2020 16:37:09,Cima Slavazzaie,Hike,,1450,2427,Val di Non,X,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
-08/04/2020 16:38:12,Monte Pin,Hike,,1380,2419,Val di Non,X,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
+08/04/2020 16:38:12,Monte Pin,Hike,,1380,2419,Val di Non,X,"May, Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,TRUE,09/05/2020,1.5,0,X
 08/04/2020 16:38:44,Cima di Quaira,Hike,,1480,2752,Val di Non,X,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1,0,X
 08/04/2020 16:40:20,Cima Tremenesca,Hike,,1650,2882,Val di Sole,X,"Jun, Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,STANDBY,20/07/2019,1.5,0,Cabres
 08/04/2020 16:40:48,Cima Rossa di Saent,Hike,,1900,3347,Val di Sole,X,"Jul, Aug, Sep, Oct",Cime solitarie del Trentino,,FALSE,,1.5,0,X
@@ -366,8 +366,7 @@ Marca de temps,Destination,Type,Distance,Denivell,Altitude,Region,Gruppo,Period 
 14/04/2020 0:11:47,Pista ciclabile della Valsugana,Bike,81.7,170,488,Valsugana,X,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",X,https://www.sentres.com/it/bici/pista-ciclabile-della-valsugana,FALSE,,2,0,X
 14/04/2020 0:13:33,Pista ciclabile della Val di Non,Bike,20.5,300,1052,Val di Non,X,"Apr, May, Jun, Jul, Aug, Sep",X,https://www.sentres.com/it/bici/pista-ciclabile-della-val-di-non,FALSE,,1,0,X
 14/04/2020 0:15:30,Ciclabile Fassa-Fiemme,Bike,44.6,20,1442,Val di Fassa,X,"May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/ciclabile-fassa-fiemme,TRUE,26/08/2019,1,0,X
-14/04/2020 0:16:26,Giro dei laghi in Trentino,Bike,24.5,160,558,Valsugana,X,"Apr, May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/giro-dei-laghi-in-trentino,FALSE,,1,0,X
-14/04/2020 0:17:22,Il giro dei Laghi di Levico e Caldonazzo,Bike,23.9,160,558,Valsugana,X,"Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",X,https://www.sentres.com/it/sentieri-mountain-bike/valsugana-e-lagorai-il-giro-dei-laghi-di-levico-e-caldonazzo,FALSE,,1,0,X
+14/04/2020 0:17:22,Il giro dei Laghi di Levico e Caldonazzo,Bike,24,160,558,Valsugana,X,"Apr, May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/sentieri-mountain-bike/valsugana-e-lagorai-il-giro-dei-laghi-di-levico-e-caldonazzo,FALSE,,1,0,X
 14/04/2020 0:19:05,Lungo la Via del Brenta,Bike,80.6,360,482,Valsugana,X,"Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",X,https://www.sentres.com/it/sentieri-mountain-bike/lungo-la-via-del-brenta,FALSE,,2,0,X
 14/04/2020 0:32:20,Ciclabile della Val Venosta,Bike,75.9,180,1550,Val Venosta,X,"May, Jun, Jul, Aug, Sep, Oct",X,https://www.sentres.com/it/bici/la-pista-ciclabile-della-val-venosta,FALSE,,1,0,X
 14/04/2020 0:33:30,Ciclabile Merano-Bolzano,Bike,34.6,30,318,Merano,X,"Apr, May, Jun, Sep, Oct, Nov",X,https://www.sentres.com/it/bici/da-merano-fino-a-bolzano,FALSE,,1,0,X

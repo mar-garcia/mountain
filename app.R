@@ -5,8 +5,9 @@ getPalette <- colorRampPalette(brewer.pal(12, "Paired"))
 data <- read.csv("muntanya.csv")
 data$Date <- as.Date(data$Date, format = "%d/%m/%Y")
 
+data$Region <- factor(data$Region)
 i_col <- getPalette(length(levels(data$Region)))
-names(i_col) <- levels(factor(data$Region))
+names(i_col) <- levels(data$Region)
 
 ui <- navbarPage(
   
