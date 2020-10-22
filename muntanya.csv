@@ -166,9 +166,9 @@ Marca de temps,Destination,Type,Distance,Denivell,Altitude,Region,Gruppo,Period 
 08/04/2020 21:42:17,Laste di Verdins,Hike,,1400,2680,Merano,X,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,3,0,X
 08/04/2020 21:42:39,Punta Alpetta,Hike,,1700,2748,Merano,X,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
 08/04/2020 21:43:03,Monte Scabro di Plan,Hike,,1300,2926,Merano,X,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
-08/04/2020 21:43:29,Cima Kirchbach,Hike,,1550,2951,Merano,X,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:43:29,Cima Kirchbach,Hike,,1550,2951,Merano,X,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,In autunno
 08/04/2020 21:44:52,Cima di Vidacqua,Hike,,950,2512,Sciliar,X,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
-08/04/2020 21:45:20,Monte Villandro,Hike,,1100,2509,Sciliar,X,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1,0,X
+08/04/2020 21:45:20,Monte Villandro,Hike,,1100,2509,Sciliar,X,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,https://www.outdooractive.com/it/route/sentiero-alpinistico/valle-isarco-alto-adige/alpe-di-villandro-forcella-sarentina-e-monte-villandro/38062385/,FALSE,,1,0,Crec que és millor aquesta versió
 08/04/2020 21:45:48,Punta Valcenai,Hike,,1250,2662,Sciliar,X,"Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
 08/04/2020 21:46:19,Cima di Quaire,Hike,,1000,2412,Sciliar,X,"May, Jun, Jul, Aug, Sep, Oct, Nov",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
 08/04/2020 21:47:13,Guardia Alta,Hike,,1500,2746,Sciliar,X,"Jun, Jul, Aug, Sep, Oct",Cime solitarie in Alto Adige,,FALSE,,1.5,0,X
@@ -473,3 +473,91 @@ Marca de temps,Destination,Type,Distance,Denivell,Altitude,Region,Gruppo,Period 
 24/04/2020 19:31:34,Terza Sorella,Hike,,1420,2999,Belluno,X,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=6,FALSE,,1.3,1.3,X
 24/04/2020 19:32:19,Cima Paolina,Alpinismo,,1865,2998,Belluno,X,"Jul, Aug, Sep",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=7,FALSE,,3,2.6,X
 24/04/2020 19:33:25,Cima Ombretta Ovest,Alpinismo,,1540,2998,Val di Fassa,X,"Jul, Aug, Sep, Oct",3000 delle Dolomiti,http://www.3000dolomiti.it/dolomiti/cima-2999-dolomiti.asp?idc=8,FALSE,,2.3,2.3,X
+11/05/2020 11:27:33,Dolomiti Brenta Trek - Expert,Hike,96,8550,2819,Giudicarie,Brenta,"Jun, Jul, Aug, Sep",Visit Trentino,http://www.dolomitibrentatrek.it/it/scopri-il-dbt-tour,FALSE,,1,1,X
+11/05/2020 11:43:19,Dolomiti Panorama Trek,Hike,65,3330,2770,Val di Fassa,,"Jun, Jul, Aug, Sep",Visit Trentino,https://www.fassa.com/IT/Dolomiti-Panorama-Trek/?_ga=2.187440224.991136090.1589188515-1010043138.1579883716,FALSE,,1,1,X
+11/05/2020 11:46:09,Dolomiti Palaronda Trek,Hike,25.5,1983,2672,Primiero,Pale di San Martino,"Jun, Jul, Aug, Sep",Visit Trentino,https://www.visittrentino.info/it/guida/tour/dolomiti-palaronda-trek_tour_20752311,FALSE,,1,1,X
+11/05/2020 20:01:15,GardaTrek - Top Loop,Hike,90.7,8100,2055,Garda e Ledro,,"Jun, Jul, Aug, Sep, Oct",Visit Trentino,https://www.visittrentino.info/it/guida/tour/gardatrek-top-loop-la-corona-del-garda-trentino_tour_21652784,FALSE,,1,1,X
+11/05/2020 20:02:57,Ledro Trek Medium,Hike,27.3,2191,1373,Garda e Ledro,,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",Visit Trentino,https://www.visittrentino.info/it/guida/tour/ledro-trek-medium-tappa-1_tour_42225025,FALSE,,1,1,https://www.visittrentino.info/it/guida/tour/ledro-trek-medium-tappa-2_tour_42225454
+11/05/2020 20:05:24,Attraversata 133 Aldo Bonacossa,Hike,43.8,4788,2410,Val di Non,,"Jun, Jul, Aug, Sep",Visit Trentino,https://www.visittrentino.info/it/guida/tour/attraversata-133-aldo-bonacossa-dal-passo-palade-alla-val-di-rabbi-in-4-giorni_tour_44153448,FALSE,,1,1,X
+11/05/2020 20:07:53,Alta Via nr. 2 sulle Pale di San Martino ,Hike,61,6102,2863,Primiero,Pale di San Martino,"Jun, Jul, Aug, Sep",Visit Trentino,https://www.visittrentino.info/it/guida/tour/alta-via-nr.2-sulle-pale-di-san-martino_tour_22869998,FALSE,,1,1,X
+11/05/2020 20:08:51,Park2Trek Dolomites,Hike,78.3,7811,2864,Primiero,Pale di San Martino,"Jun, Jul, Aug, Sep",Visit Trentino,https://www.visittrentino.info/it/guida/tour/park2trek-dolomites_tour_30816448,FALSE,,1,1,X
+11/05/2020 20:16:39,Alta Via dell'Ortles,Hike,119.5,8126,,Val Venosta,,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/estate/escursioni/escursioni-multi-tappa/alta-via-dell-ortles,FALSE,,1,1,X
+11/05/2020 20:23:25,Alta Via di Merano,Hike,100,5100,2895,Merano,,"Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/estate/escursioni/escursioni-multi-tappa/alta-via-di-merano,FALSE,,1,1,https://www.merano-suedtirol.it/it/merano-e-dintorni/alta-via-di-merano.html
+11/05/2020 20:25:39,Alta Via della Val Venosta,Hike,106.8,2019,,Val Venosta,,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/estate/escursioni/escursioni-multi-tappa/alta-via-della-val-venosta,FALSE,,1,1,X
+11/05/2020 20:28:34,Sentiero Dolorama,Hike,59.9,2352,2341,Val Pusteria,Odle-Puez-Putia,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/estate/escursioni/escursioni-multi-tappa/dolorama,FALSE,,1,1,X
+11/05/2020 20:33:47,Dolomiti senza confini,Hike,106.9,13162,2927,Val Pusteria,,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/estate/escursioni/escursioni-multi-tappa/dolomiti-senza-confini,FALSE,,1,1,X
+11/05/2020 20:36:00,Altavia nella Val Sarentino,Hike,97.1,6664,2684,Sciliar,,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/Hufeisentour-Altavia-nelle-Alpi-Val-Sarentino_activity_11220,FALSE,,1,1,X
+11/05/2020 20:37:50,Alta Via di Bressanone,Hike,10.8,642,2487,Valle Isarco,,"May, Jun, Jul, Aug, Sep, Oct",sudtirol.info,https://www.suedtirol.info/it/esperienze/estate/escursioni/escursioni-multi-tappa/Alta-Via-di-Bressanone_activity_9247247,FALSE,,1,1,https://regio.outdooractive.com/oar-suedtirol-alto-adige/it/tour/sentiero-turistico/l-alta-via-di-bressanone-sulla-plose/45687273/?lang=it
+11/05/2020 20:41:57, Trekking nel Patrimonio UNESCO ,Hike,178.6,10601,2697,Val Pusteria,,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/estate/escursioni/escursioni-multi-tappa/dolomites-UNESCO-geotrail,FALSE,,1,1,X
+11/05/2020 20:43:23,"Alta Via delle Dolomiti 1, la “Classica”",Hike,106.1,6820,2740,Val Pusteria,,"May, Jun, Jul, Aug, Sep, Oct",sudtirol.info,https://www.suedtirol.info/it/esperienze/altavia-delle-dolomiti-n.1_activity_11101,FALSE,,1,1,"
+Dal lago di Braies a Belluno. 150 km, 13 giorni, facile con breve via ferrata.
+https://regio.outdooractive.com/oar-suedtirol-alto-adige/it/tour/alta-via/altavia-delle-dolomiti-n.-1/16570713/?lang=it"
+11/05/2020 20:45:14,"Alta Via delle Dolomiti 2, la “Via delle Leggende”",Hike,140.8,11723,3152,Val di Fassa,,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/alta-via-delle-dolomiti-n.2_activity_9086563,FALSE,,1,1," Da Bressanone a Feltre. 185 km, 15 giorni, passaggi in roccia difficoltà III e tappa con ghiacciaio (Marmolada) https://regio.outdooractive.com/oar-suedtirol-alto-adige/it/tour/sentiero-escursionistico/alta-via-delle-dolomiti-n.-2/39773803/?lang=it"
+11/05/2020 20:46:26,"Alta Via delle Dolomiti 3, “Alta Via dei Camosci”",Hike,99.3,9398,2637,Belluno,,"May, Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/altavia-delle-dolomiti-n.3_activity_11102,FALSE,,1,1,"Da Dobbiaco a Longarone. 120 km, 10 giorni, tappe lunghe con vie ferrate e passaggi in roccia II https://regio.outdooractive.com/oar-suedtirol-alto-adige/it/tour/alta-via/altavia-delle-dolomiti-n.-3/16419889/?lang=it"
+11/05/2020 20:47:49,"Alta Via delle Dolomiti 4, “Alta Via Grohmann”",Hike,66.3,7046,2703,Val Pusteria,,"May, Jun, Jul, Aug, Sep, Oct",sudtirol.info,https://www.suedtirol.info/it/esperienze/altavia-delle-dolomiti-n.4_activity_9000422,FALSE,,1,1,"Da San Candido a Pieve di Cadore. 90 km, 8 giorni, vie ferrate passaggi in roccia difficoltà II https://regio.outdooractive.com/oar-suedtirol-alto-adige/it/tour/alta-via/altavia-delle-dolomiti-n.-4/16420362/?lang=it"
+11/05/2020 20:49:04,"Alta Via delle Dolomiti 5, “Alta Via di Tiziano”",Hike,67.3,7164,2637,Val Pusteria,,"May, Jun, Jul, Aug, Sep, Oct",sudtirol.info,https://www.suedtirol.info/it/esperienze/altavia-delle-dolomiti-n.5_activity_11103,FALSE,,1,1,"Da Sesto a Pieve di Cadore. 100 km, 10 giorni, vie ferrate e punti di difficoltà II, in parte pernottamento in bivacco https://regio.outdooractive.com/oar-suedtirol-alto-adige/it/tour/alta-via/altavia-delle-dolomiti-n.-5/16570701/?lang=it"
+11/05/2020 20:51:13,https://www.suedtirol.info/it/esperienze/altavia-delle-dolomiti-n.5_activity_11103,Hike,190,9000,2450,Belluno,,"Jun, Jul, Aug, Sep",sudtirol.info,http://www.infodolomiti.it/vacanza-attiva/alte-vie-delle-dolomiti/alta-via-delle-dolomiti-n-6/7262-l1.html,,,1,1,"Da Sappada a Vittorio Veneto. 190 km, 14 giorni, vie ferrate e punti di difficoltà II-III, tappe lunghe e isolate, in parte pernottamento in bivacco"
+11/05/2020 20:52:56,"Alta Via delle Dolomiti 7, sulle orme di Lothar Pateras",Hike,110,3100,2251,Belluno,,"Jun, Jul, Aug, Sep",sudtirol.info,http://www.infodolomiti.it/media/infodolomiti/Documenti/Vacanza-Attiva/Alte-Via-Dolomiti/AV-07-IT.pdf,FALSE,,1,1,"Da Pieve d'Alpago a Segusino. 110 km, 11 giorni, via ferrata e punti di difficoltà II, tappe lunghe e impegnative, pernottamento in bivacco."
+11/05/2020 20:54:24,"Alta Via delle Dolomiti 8, “Via dei Panorami”",Hike,152.1,7830,2800,Valle Isarco,,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.suedtirol.info/it/esperienze/alta-via-delle-dolomiti-n.8_activity_9327338,FALSE,,1,1," Da Bressanone a Salorno. 160 km, 13 giorni, 1 via ferrata https://regio.outdooractive.com/oar-suedtirol-alto-adige/it/tour/sentiero-turistico/alta-via-delle-dolomiti-n.-8/40310565/?lang=it"
+11/05/2020 20:55:56,"Alta Via delle Dolomiti 9, la “Trasversale”",Hike,136.9,11447,3147,Sciliar,,"May, Jun, Jul, Aug, Sep, Oct",sudtirol.info,https://www.suedtirol.info/it/esperienze/l-alta-via-delle-dolomiti-n.9_activity_9247846,FALSE,,1,1,"Da Bolzano a Santo Stefano. 180 km, 14 giorni, facile e con tappe brevi https://regio.outdooractive.com/oar-suedtirol-alto-adige/it/tour/sentiero-escursionistico/l-alta-via-delle-dolomiti-n.-9/40287125/?lang=it#dmdtab=oax-tab2"
+11/05/2020 20:59:03,"Alta Via delle Dolomiti 10, Alta Via delle Giudicarie",Hike,200,15355,,Giudicarie,,"Jun, Jul, Aug, Sep",sudtirol.info,https://www.dolomiti.it/it/itinerari/alte-vie/alta-via-n-10-da-bolzano-al-lago-di-garda/,FALSE,,1,1,"Da Bolzano al lago di Garda, 200 km, 18 giorni, 3 vie ferrate, tappe lunghe"
+22/10/2020 20:40:43,Cima SAT,Hike,,1200,1276,Garda e Ledro,,"Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:41:25,Cima Rocchetta,Hike,,1250,1519,Garda e Ledro,,"May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:43:39,Monte Caret,Hike,,1200,1793,Garda e Ledro,,"May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:47:46,Cima Rocca,Hike,,800,1090,Garda e Ledro,,"Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:48:24,Cima Nara,Hike,,900,1376,Garda e Ledro,,"Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:48:59,Cima d'Oro,Hike,,1200,1802,Garda e Ledro,,"May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:49:36,Monte Carone,Hike,,1500,1621,Garda e Ledro,,"Apr, May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:50:25,Corno dei Gui - La Roda,Hike,,1300,2168,Garda e Ledro,,"May, Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:51:04,Monte Corno,Hike,,1000,1731,Garda e Ledro,,"May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:51:57,Sasso Rosso,Hike,,1500,2645,Val di Non,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:52:50,Cima Soran - Rossati,Hike,,1400,2443,Giudicarie,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:53:39,Cima dei Camerotti,Hike,,1000,2693,Giudicarie,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:54:21,Cima Ceda Orientale,Hike,,1850,2760,Giudicarie,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:54:57,Dos di Dalun,Hike,,,2687,Giudicarie,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:55:50,Monte Daino,Hike,,1250,2684,Val di Non,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:56:33,Cima dei Lasteri,Hike,,1350,2459,Val di Non,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:57:18,Cima Loverdina,Hike,,950,2237,Val di Non,Brenta,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:58:13,Corni di Lago Scuro,Hike,,1550,3166,Giudicarie,Brenta,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:58:54,Monte Venezia,Hike,,1800,3290,Giudicarie,Brenta,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 20:59:34,Monte Spadalone,Hike,,900,2344,Giudicarie,Brenta,"May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:00:12,Cima La Uzza,Hike,,1100,2678,Giudicarie,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:00:47,Cima Laghetto,Hike,,950,2959,Giudicarie,Brenta,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:01:28,Monte Gardene,Hike,,1300,2520,Val di Sole,Brenta,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:02:02,Monte Serodoli,Hike,,1000,2708,Giudicarie,Brenta,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:44:13,Cima Valletta,Hike,,1300,2857,Val di Sole,,"May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:45:03,Cima Cadinel,Hike,,1350,2864,Val di Sole,,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:45:42,Cima Mezzana,Hike,,1050,2845,Val di Sole,,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:46:20,Monte Redival,Hike,,1400,2973,Val di Sole,,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:46:55,Cima Lago Lungo,Hike,,1200,3165,Val di Sole,,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:47:30,Stubele,Hike,,1600,2671,Val di Sole,,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:48:13,Cima della Siromba,Hike,,1500,2539,Val di Sole,,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:48:49,Vedetta Alta,Hike,,1200,2627,Val di Non,,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:49:24,Cima della Mandrie,Hike,,1200,2583,Val di Sole,,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:50:00,Cima delle Stellune,Hike,,1150,2605,Valsugana,Lagorai,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:50:50,Cima Ceremana,Hike,,1250,2699,Val di Fiemme,Lagorai,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:51:30,Cimon di Busa della Neve,Hike,,1200,2574,Valsugana,Lagorai,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:52:07,Busa Grana,Hike,,1400,2510,Val di Fassa,Lagorai,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:52:49,Cimon di Val Moena,Hike,,1350,2488,Val di Fassa,Lagorai,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:54:01,Cima Buse dall'Or,Hike,,1000,2546,Val di Fassa,Lagorai,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:54:33,Cima di Cece,Hike,,1200,2754,Val di Fiemme,Lagorai,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:55:11,Monte Ziolera,Hike,,1250,2478,Valsugana,Lagorai,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:55:51,Cima Moregna,Hike,,1050,2517,Val di Fiemme,Lagorai,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:56:25,Colbricon,Hike,,900,2602,Val di Fiemme,Lagorai,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:57:03,Cima di Canzenagol,Hike,,900,2457,Val di Fiemme,Lagorai,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:57:38,Cima del Passetto,Hike,,1200,2589,Valsugana,Lagorai,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:58:07,Cima d'Asta,Hike,,1500,2847,Valsugana,Lagorai,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:58:50,Cima Costa Brunella,Hike,,950,2253,Valsugana,Lagorai,"May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 21:59:47,Cima Val di Roda,Hike,,1600,2791,Primiero,Pale di San Martino,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:00:25,Cima del Lago,Hike,,1450,2765,Primiero,Pale di San Martino,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:01:00,Cima della Vezzana,Hike,,1000,3192,Primiero,Pale di San Martino,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:01:29,Monte Mulaz,Hike,,1400,2906,Primiero,Pale di San Martino,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:02:05,Cima della Stanga,Hike,,1200,2550,Primiero,Pale di San Martino,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:02:35,Cima Spizoti,Hike,,1100,1915,Primiero,Pale di San Martino,"May, Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:03:31,Cima Ombretta Est,Hike,,1550,3011,Val di Fassa,Marmolada,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:04:23,Alta Via Bepi Zac,Hike,,1100,2762,Val di Fassa,,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:05:20,Piz Gralba,Hike,,1250,2972,Val di Fassa,Sella,"Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:05:56,Roda di Vael,Hike,,700,2806,Val di Fassa,,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:06:44,Punta Vallaccia,Hike,,1300,2637,Val di Fassa,,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:07:22,Sassopiatto,Hike,,1550,2958,Val di Fassa,Sassolungo,"Jun, Jul, Aug, Sep, Oct",Facili Cime del Trentino,,FALSE,,,,
+22/10/2020 22:08:17,Cima di Valsorda,Hike,,1100,2752,Val di Fiemme,Catinaccio,"Jun, Jul, Aug, Sep, Oct, Nov",Facili Cime del Trentino,,FALSE,,,,
